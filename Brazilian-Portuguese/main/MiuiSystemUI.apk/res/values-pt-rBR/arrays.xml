@@ -18,6 +18,15 @@
         <item>No máximo, três processos</item>
         <item>No máximo quatro processos</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
     <string-array name="battery_options">
         <item>Sempre mostrar porcentagem</item>
         <item>Mostrar porcentagem durante o carregamento (padrão)</item>

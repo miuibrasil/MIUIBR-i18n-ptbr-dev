@@ -321,6 +321,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="xl_vip_open">Comprar</string>
     <string name="xl_vip_pay">Estender</string>
     <string name="xl_vip_overdue">Expirado</string>
+    <string name="app_size">%1$s</string>
     <string name="ad_title">As pessoas também baixaram estes com  %1$s </string>
     <string name="rank_data_empty">Sem classificações</string>
     <string name="net_error">"Não é possível conectar-se à rede, tente novamente"</string>

@@ -1254,6 +1254,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="private_dns_mode_provider_failure">"Não foi possível conectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
     <string name="private_num">Número privado</string>
+    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
     <string name="prompt_to_turnoff_volte_when_failed">"Os serviços de VoLTE não estão disponíveis. Desative o VoLTE para fazer uma chamada."</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">"O serviço não está disponível. Desative o VoLTE nas Configurações."</string>

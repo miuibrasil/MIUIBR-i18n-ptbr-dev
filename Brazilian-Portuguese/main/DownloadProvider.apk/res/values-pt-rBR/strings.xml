@@ -31,6 +31,7 @@
     <string name="download_queued">Na fila</string>
     <string name="download_remaining">%s restantes</string>
     <string name="download_running">Em andamento</string>
+    <string name="download_running_percent">Em andamento, %s</string>
     <string name="download_unknown_title">&lt;Sem título&gt;</string>
     <string name="enter_garbage_clean">Limpar armazenamento interno.</string>
     <string name="insufficient_space">"Espaço insuficiente no armazenamento interno do seu dispositivo"</string>
