@@ -57,6 +57,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Em %1$d minutos</item>
         <item quantity="one">Em %1$d minuto</item>
     </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">Em %d segundos</item>
+        <item quantity="one">Em %d segundo</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d apps</item>
         <item quantity="one">Pesquisar entre %d app</item>
@@ -125,6 +129,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d riscos,</item>
         <item quantity="one">%d risco,</item>
     </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="hints_roaming_disable_title">
         <item quantity="other">"%d apps não podem usar o roaming de dados"</item>
         <item quantity="one">"%d app não pode usar o roaming de dados"</item>
@@ -166,8 +178,20 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">%d exceção</item>
     </plurals>
     <plurals name="marked_by_others">
-        <item quantity="other">%d outros usuários reportaram-no como</item>
-        <item quantity="one">%d outro usuário reportou-o como</item>
+        <item quantity="other">%d outros usuários sinalizaram como</item>
+        <item quantity="one">%d outro usuário sinalizou como</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d mensagens e chamadas foram bloqueadas</item>
+        <item quantity="one">%d mensagem ou chamada foi bloqueada</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">"Fazem %d dias que o dispositivo não é verificado"</item>
+        <item quantity="one">"Faz %d dia que o dispositivo não é verificado"</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d apps contém vírus ou malware</item>
+        <item quantity="one">%d app contém vírus ou malware</item>
     </plurals>
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">%d atualizações estão disponíveis</item>
@@ -200,6 +224,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="number_locked">
         <item quantity="other">%d apps bloqueados</item>
         <item quantity="one">%d app bloqueado</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="number_masked_text">
         <item quantity="other">%d notificações foram ocultas</item>
@@ -293,9 +321,25 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">"%d h "</item>
         <item quantity="one">"%d h "</item>
     </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Adiciona %d minutos</item>
         <item quantity="one">Adiciona %d minuto</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">itens</item>
+        <item quantity="one">item</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dias restantes</item>
@@ -369,6 +413,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%s apps protegidos</item>
         <item quantity="one">%s app protegido</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
     <plurals name="st_show_num_keyword">
         <item quantity="other">%d palavras-chave</item>
         <item quantity="one">%d palavra-chave</item>
@@ -393,6 +441,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d vírus removidos</item>
         <item quantity="one">%d vírus removido</item>
     </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"%d jogos não adicionados"</item>
         <item quantity="one">"%d jogo não adicionado"</item>
@@ -404,5 +456,9 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Apps perigosos: %d</item>
         <item quantity="one">App perigoso: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojans: %d</item>
+        <item quantity="one">Trojan: %d</item>
     </plurals>
 </resources>

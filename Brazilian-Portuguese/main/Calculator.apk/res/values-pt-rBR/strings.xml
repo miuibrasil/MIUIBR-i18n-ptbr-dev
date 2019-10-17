@@ -185,7 +185,7 @@
     <string name="negDesc">Trocar entre temperaturas abaixo e acima de zero</string>
     <string name="network_confirm_content">O conversor de moedas e a calculadora de impostos e hipoteca precisam de uma conexão com a internet e acesso à localização para funcionarem normalmente.</string>
     <string name="network_confirm_title">Permissões necessárias</string>
-    <string name="network_purpose">Boas-vindas à Calculadora! A Calculadora permite que você conversa moedas, calcule parcelas de hipotecas, e mais.</string>
+    <string name="network_purpose">Boas-vindas à Calculadora! A Calculadora permite que você converta moedas, calcule parcelas de hipotecas e mais.</string>
     <string name="none">N/A</string>
     <string name="not_supported_due_to_language">Este recurso só está disponível no idioma Chinês</string>
     <string name="ok">OK</string>
@@ -200,7 +200,7 @@
     <string name="preference_check_update_summary_current_version">Versão atual: %s</string>
     <string name="preference_check_update_summary_new_version">Atualização disponível: %s</string>
     <string name="preference_check_update_title">Procurar por atualizações</string>
-    <string name="preference_feedback_title">FAQ</string>
+    <string name="preference_feedback_title">Perguntas frequentes</string>
     <string name="preference_follow_qq_group">Grupo QQ: 523274279</string>
     <string name="preference_follow_us">Siga-nos</string>
     <string name="preference_follow_web_title">Site oficial</string>

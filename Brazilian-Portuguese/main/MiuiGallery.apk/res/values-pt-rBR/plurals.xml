@@ -221,6 +221,10 @@
         <item quantity="other">"%1$d fotos que não puderam ser renderizadas foram ignoradas."</item>
         <item quantity="one">"1 foto que não pôde ser renderizada foi ignorada."</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d arquivos</item>
+        <item quantity="one">%1$d arquivo</item>
+    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d itens aguardando backup</item>
         <item quantity="one">1 item aguardando backup</item>

@@ -6,8 +6,8 @@
         <item quantity="one">%1$s sugestão de preenchimento automático</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">Capturas de tela para o relatório do bug serão feitas em %d segundos.</item>
-        <item quantity="one">Capturas de tela para o relatório do bug serão feitas em %d segundos.</item>
+        <item quantity="other">Capturas de tela para o relatório de erros serão feitas em %d segundos.</item>
+        <item quantity="one">Capturas de tela para o relatório de erros serão feitas em %d segundos.</item>
     </plurals>
     <plurals name="duration_days_relative">
         <item quantity="other">%d dias atrás</item>
@@ -90,8 +90,8 @@
         <item quantity="one">%1$d de %2$d</item>
     </plurals>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">Tentativas restantes: %d. Caso o código correto não seja digitado, o chip será bloqueado.</item>
-        <item quantity="one">Tentativas restantes: %d. Caso o código correto não seja digitado, o chip será bloqueado.</item>
+        <item quantity="other">Tentativas restantes: %d. Caso o código correto não seja digitado, o SIM será bloqueado.</item>
+        <item quantity="one">Tentativas restantes: %d. Caso o código correto não seja digitado, o SIM será bloqueado.</item>
     </plurals>
     <plurals name="restr_pin_countdown">
         <item quantity="other">Tente novamente em %d segundos</item>

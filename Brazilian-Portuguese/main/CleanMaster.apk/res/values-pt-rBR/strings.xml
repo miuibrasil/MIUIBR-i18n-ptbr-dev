@@ -75,12 +75,16 @@
     <string name="appcleaner_qq_scanning_cache">Cache do QQ</string>
     <string name="appcleaner_qq_scanning_chat">Arquivos enviados</string>
     <string name="appcleaner_qq_scanning_trash">Lixeira</string>
-    <string name="appcleaner_result_dc_card_title">Liberar mais espaço</string>
+    <string name="appcleaner_result_dc_card_title">Liberar mais armazenamento</string>
     <string name="appcleaner_wechat_clean_summary">Excluir itens desnecessários do WeChat</string>
     <string name="appcleaner_wechat_clean_title">Limpeza do app</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpar %s do cache do WeChat para liberar espaço de armazenamento</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Não se esqueça de limpar o cache"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Lembrar de limpar o cache do WeChat</string>
+    <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+    <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+    <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+    <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Diariamente</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">A cada 15 dias</string>
     <string name="appcleaner_wechat_pref_time_seven_day">A cada 7 dias</string>
@@ -148,7 +152,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cd_back">voltar</string>
     <string name="cd_check_box_checked">selecionado</string>
-    <string name="cd_check_box_middle">selecionado parcialmente</string>
+    <string name="cd_check_box_middle">seleção parcial</string>
     <string name="cd_check_box_unchecked">não selecionado</string>
     <string name="cd_list_item_collapse">recolhido</string>
     <string name="cd_list_item_expanded">expandido</string>
@@ -462,9 +466,9 @@
     <string name="recommend_news">Receber recomendações</string>
     <string name="recommend_the_following">Tome as seguintes ações para tirar o máximo proveito de seu dispositivo</string>
     <string name="recommended">Destaque</string>
-    <string name="resutl_function_deep_clean_summary">"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; outros arquivos podem ser limpos. Libere mais espaço.&lt;/Data&gt;"</string>
-    <string name="resutl_function_qq_clean_summary">"&lt;Data&gt;Você pode limpar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; do cache gerado pelo QQ;&lt;/Data&gt;"</string>
-    <string name="resutl_function_wechat_clean_summary">"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; da cache do WeChat. Libere mais espaço.;&lt;/Data&gt;"</string>
+    <string name="resutl_function_deep_clean_summary">" \"<Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; outros arquivos podem ser limpos. Libere mais espaço.</Data>\" "</string>
+    <string name="resutl_function_qq_clean_summary">" \"<Data>Você pode limpar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; do cache gerado pelo QQ;</Data>\" "</string>
+    <string name="resutl_function_wechat_clean_summary">" \"<Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; da cache do WeChat. Libere mais espaço.;</Data>\" "</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="sc_allow_network_dialog_message">Permitir que este app conecte-se à internet para receber atualizações?</string>
     <string name="scanning">Verificando…</string>

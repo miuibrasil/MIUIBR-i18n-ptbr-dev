@@ -10,6 +10,7 @@
     <string name="app_search">Pesquisar apps</string>
     <string name="btn_send">Enviar</string>
     <string name="bugreport_dialog_not_show_again">"Não mostrar novamente"</string>
+    <string name="bugreport_dialog_submit_content"><Data>"Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar "Aceitar" você estará afirmando que leu e concordou com a nossa &lt;a href="%1$s"&gt;Política de Privacidade&lt;/a&gt; e o &lt;a href="%2$s"&gt;Contrato do Usuário&lt;/a&gt;."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Toque para ver.</string>
     <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
     <string name="bugreport_dump_start_notification_summary">Isto pode levar vários minutos.</string>
@@ -101,7 +102,23 @@
     <string name="feedback_description_hint_suggestion">"Diga-nos como gostaria que melhorássemos o MIUI."</string>
     <string name="feedback_description_label">Descrição</string>
     <string name="feedback_description_suggest_hint">"Gostaria de adicionar uma nova função () porque eu preciso de ()."</string>
+    <string name="feedback_detail_copy_toast">Copiado para a área de transferência</string>
+    <string name="feedback_detail_feedback_attach">Anexos</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">"Não foi possível fazer o upload"</string>
+    <string name="feedback_detail_feedback_attach_uploading">Fazendo o upload…</string>
+    <string name="feedback_detail_feedback_category">Categoria</string>
+    <string name="feedback_detail_feedback_id">ID do relatório: %d</string>
+    <string name="feedback_detail_feedback_reply_hint">Responder</string>
+    <string name="feedback_detail_feedback_summary">Feedback</string>
+    <string name="feedback_detail_need_content">Insira o conteúdo primeiro</string>
+    <string name="feedback_detail_title">Detalhes</string>
+    <string name="feedback_detail_upload_generate_log">Gerar logs</string>
+    <string name="feedback_detail_upload_image">Upload de imagens/vídeos</string>
+    <string name="feedback_detail_upload_local_log">Upload de arquivo</string>
+    <string name="feedback_detail_upload_log">Upload de logs</string>
+    <string name="feedback_detail_waiting">Gerando…</string>
     <string name="feedback_empty_report_list">Nenhum relatório ainda</string>
+    <string name="feedback_guess">Nosso palpite:</string>
     <string name="feedback_history_remind_login_desc">"Faça o login com sua Conta Mi para ver os detalhes e progresso de seus relatórios"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Chave JIRA: %s</string>
@@ -155,7 +172,7 @@
     <string name="feedback_submit_failed_notification_desc">Ver detalhes</string>
     <string name="feedback_submit_failed_notification_retry">Enviar novamente</string>
     <string name="feedback_submit_failed_notification_title">"Não foi possível enviar o relatório"</string>
-    <string name="feedback_submit_hint">Reporte bugs sempre que os encontrar para nos ajudar a resolvê-los rapidamente.</string>
+    <string name="feedback_submit_hint">Reporte erros sempre que encontrar problemas para nos ajudar a resolvê-los rapidamente.</string>
     <string name="feedback_submit_hint1">"Nós iremos notificá-lo de qualquer progresso em seu relatório"</string>
     <string name="feedback_submit_hint2">Vá para \"Meus relatórios\" para ver mais detalhes</string>
     <string name="feedback_submit_hint_gone">Mensagem fechada</string>
@@ -179,9 +196,11 @@
     <string name="kr_authorization_contact">Contas</string>
     <string name="kr_authorization_contact_desc">Para acessar as informações da Conta Mi para identificar o dispositivo</string>
     <string name="kr_authorization_exit">Sair</string>
+    <string name="kr_authorization_function">Enviar feedbacks, gerar logs, ver perguntas frequentes</string>
     <string name="kr_authorization_log_protocol">Protocolo de Logs (opcional)</string>
     <string name="kr_authorization_log_protocol_desc">"Para melhorar os serviços fornecidos para você, vamos fazer o upload de estatísticas de uso e logs do sistema para nossos servidores. Estes itens podem conter informações pessoais, assim como informações sobre o seu dispositivo e redes acessadas. Usaremos as informações para nos ajudar a localizar e analisar problemas no sistema."</string>
     <string name="kr_authorization_phone">Telefone</string>
+    <string name="kr_authorization_phone_desc">Para acessar o modelo do dispositivo, IMEI e ID do dispositivo para localizar e resolver problemas</string>
     <string name="kr_authorization_privacy_policy">Política de Privacidade (obrigatório)</string>
     <string name="kr_authorization_select_all">Selecionar tudo</string>
     <string name="kr_authorization_storage">Armazenamento</string>
@@ -194,7 +213,10 @@
     <string name="max_error">Seu %1$s precisa ser mais curto.</string>
     <string name="menu_copy">Copiar</string>
     <string name="message_label">Mensagem</string>
+    <string name="mi_service_dialog_cancel">Sair</string>
+    <string name="mi_service_dialog_confirm">Abrir</string>
     <string name="mi_service_dialog_content">Todos os recursos de feedback foram movidos para o novo app \"Serviços e Feedback\". O app Feedback será removido da sua Tela inicial. Toque em \"Abrir\" para testar o \"Serviços e Feedback\'.</string>
+    <string name="mi_service_dialog_title">Introduzindo o \"Serviços e Feedback\"</string>
     <string name="michat_app_name">Suporte online</string>
     <string name="michat_artificial_customer_phone_dial_error">"Se você não conseguir ligar para o hotline 400, ligue para %1$s usando um telefone diferente"</string>
     <string name="michat_artificial_customer_text">Operador de suporte</string>
@@ -216,7 +238,7 @@
     <string name="michat_error_need_login_btn">Fazer login</string>
     <string name="michat_error_need_login_text">Faça o login para usar o suporte online</string>
     <string name="michat_failed_to_add_media">"Desculpe, não é possível enviar %1$s"</string>
-    <string name="michat_failed_to_fetch_fql">"Não foi possível obter informações do FAQ, verifique sua conexão de rede"</string>
+    <string name="michat_failed_to_fetch_fql">"Não foi possível obter informações de Perguntas frequentes, verifique sua conexão de rede"</string>
     <string name="michat_feedback_title_name">Questionário de feedback</string>
     <string name="michat_finish_text">Finalizar</string>
     <string name="michat_in_artificial_customer_state">"Não é possível fazer isso enquanto uma pessoa o ajuda"</string>
@@ -486,12 +508,14 @@ Para ativar sua conta, siga o
     <string name="select_system_app_tag">Selecione um problema</string>
     <string name="submit_dialog_cancel">"Não aceitar"</string>
     <string name="submit_dialog_confirm">Aceitar</string>
+    <string name="submit_dialog_content"><Data>"Você precisa aceitar nossa &lt;a href="%1$s"&gt;Política de Privacidade&lt;/a&gt; e o &lt;a href="%2$s"&gt;Contrato do Usuário&lt;/a&gt; para poder usar o Feedback. Os problemas que você reportar, junto com os itens que você anexar (que podem conter informações pessoais, bem como informações sobre seu dispositivo e a rede) serão enviados aos servidores do MIUI. Isto nos ajudará a localizar e corrigir os problemas que você reportar."</Data></string>
+    <string name="submit_dialog_content_global"><Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar "Aceitar" você estará afirmando que leu e concordou com a nossa &lt;a href="%1$s"&gt;Política de Privacidade&lt;/a&gt; e o &lt;a href="%2$s"&gt;Contrato do Usuário&lt;/a&gt;.</Data></string>
     <string name="submit_dialog_title">Enviar relatório</string>
     <string name="submit_feedback_info_failed">"Não foi possível enviar o relatório"</string>
     <string name="suggestion_description">Adicione a descrição aqui</string>
     <string name="system_app_select">Apps integrados</string>
     <string name="systemui">Área de notificações</string>
-    <string name="tab_title_chat">FAQ</string>
+    <string name="tab_title_chat">Perguntas frequentes</string>
     <string name="tab_title_my_reports">Meus relatórios</string>
     <string name="tab_title_preferences">Configurações</string>
     <string name="tab_title_report">Feedback</string>
@@ -499,7 +523,7 @@ Para ativar sua conta, siga o
     <string name="title_catch_full_log">Logs</string>
     <string name="title_customer_service">Atendimento ao cliente</string>
     <string name="title_first_aid">Primeiros socorros</string>
-    <string name="title_frequent_question_feedback_main">FAQ</string>
+    <string name="title_frequent_question_feedback_main">Perguntas frequentes</string>
     <string name="title_mi_family">Mi Homes próximas</string>
     <string name="title_nonsystem_app">Outros apps</string>
     <string name="title_same_question_feedback_main">Problemas semelhantes no Fórum MIUI</string>

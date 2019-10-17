@@ -3,8 +3,8 @@
 <resources>
     <string name="accept">OK</string>
     <string name="activate">Ativar</string>
-    <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para ativar \"Encontrar dispositivo\"</string>
-    <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado do cartão SIM %s para ativar \"Encontrar dispositivo\"</string>
+    <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para ativar o \"Encontrar dispositivo\"</string>
+    <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado do cartão SIM %s para ativar o \"Encontrar dispositivo\"</string>
     <string name="activate_auto_sms_notification_title">Ativação do cartão SIM</string>
     <string name="activate_feature_call_log_sync">Sincronizar histórico de chamadas</string>
     <string name="activate_feature_default_name">Serviços Mi</string>
@@ -12,12 +12,12 @@
     <string name="activate_feature_live_talk">Pacote de recarga</string>
     <string name="activate_feature_mi_roaming">Mi Roaming</string>
     <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
-    <string name="activate_feature_mx">Mi Mensagem</string>
+    <string name="activate_feature_mx">Mi Message</string>
     <string name="activate_feature_mx_and_voip">Mi Message e Voice</string>
     <string name="activate_feature_register_xiaomi_account">Configuração da Conta Mi</string>
     <string name="activate_feature_remote_assist">Assistente remoto</string>
     <string name="activate_feature_verify_mx_token">Verificação da Conta Mi</string>
-    <string name="activate_feature_voip">Mi Mensagem VoIP</string>
+    <string name="activate_feature_voip">Mi Message VoIP</string>
     <string name="activate_history_canceled_overview">Ativação do cartão SIM cancelada. Ativação acionada por \"%1$s\".</string>
     <string name="activate_history_multisim_canceled_overview">Ativação do cartão SIM %2$d foi cancelada. Ativação acionada por %1$s\".</string>
     <string name="activate_history_multisim_success_overview">Cartão SIM %2$d ativado com sucesso. Ativação acionada por %1$s\".</string>

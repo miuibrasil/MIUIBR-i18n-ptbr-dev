@@ -3,6 +3,7 @@
 <resources>
     <string name="app_name">Acesso rápido</string>
     <string name="app_not_installed">Não instalado</string>
+    <string name="applications">Apps</string>
     <string name="category_others">Outros</string>
     <string name="category_setting">Configurações</string>
     <string name="close_panel">Desativar botões de Acesso rápido</string>
@@ -22,6 +23,7 @@
     <string name="name_handy_mode">Modo para uma mão</string>
     <string name="name_long_press_power_key">Segurar botão Liga/Desliga</string>
     <string name="name_memory_clean">Limpar cache</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">Próxima música</string>
     <string name="name_music_prev_song">Música anterior</string>
     <string name="name_music_toggle">Reproduzir/pausar música</string>

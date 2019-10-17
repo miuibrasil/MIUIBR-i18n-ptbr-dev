@@ -24,6 +24,8 @@
     <string name="instruction">Informação importante de segurança</string>
     <string name="sar">Informação de exposição à RF</string>
     <string name="user_experience_program">Programa de Experiência do Usuário</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="yesterday">Ontem</string>

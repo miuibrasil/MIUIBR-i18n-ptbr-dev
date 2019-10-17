@@ -11,6 +11,7 @@
 acesse %s em outro dispositivo que esteja conectado."</string>
     <string name="loading">Aguarde…</string>
     <string name="mibi_license">Contrato do Usuário do Mi Credits</string>
+    <string name="open_wifi_connect_and_use_data_summary">Usando dados móveis. Toque para alternar para Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Toque para ver detalhes.</string>
     <string name="open_wifi_connect_title">Conectado a %1$s</string>
     <string name="permdesc_accessDrm">Permitir que o app acesse conteúdo protegido por DRM.</string>

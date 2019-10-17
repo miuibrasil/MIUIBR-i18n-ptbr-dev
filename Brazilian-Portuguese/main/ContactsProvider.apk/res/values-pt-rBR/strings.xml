@@ -5,7 +5,7 @@
     <string name="call_log_provider_label">Histórico de chamadas</string>
     <string name="debug_dump_database_message">Você está prestes a 1) fazer uma cópia de seu banco de dados no armazenamento interno, com todas as informações relacionadas aos contatos e todo o histórico de chamadas e 2) enviar essa cópia por e-mail. Lembre-se de excluir a cópia, logo que você a tiver copiado do dispositivo ou que o e-mail for recebido.</string>
     <string name="debug_dump_delete_button">Excluir agora</string>
-    <string name="debug_dump_email_body">Meu banco de dados de contatos está anexado, Lá estão todas as informações de meus contatos. Use-o com cuidado.</string>
+    <string name="debug_dump_email_body">Em anexo encontra-se o meu banco de dados de contatos com todas as informações dos meus contatos. Use-o com cautela.</string>
     <string name="debug_dump_email_sender_picker">Escolha um programa para enviar o arquivo</string>
     <string name="debug_dump_email_subject">BD de contatos anexado</string>
     <string name="debug_dump_start_button">Iniciar</string>

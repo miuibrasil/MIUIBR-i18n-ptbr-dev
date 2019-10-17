@@ -169,7 +169,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="green_guard_des1">Adicione dispositivos para gerenciá-los remotamente</string>
     <string name="green_guard_des2">Saiba onde todos os dispositivos gerenciados estão</string>
     <string name="green_guard_des3">Controle apps instalados e restrinja seu uso</string>
-    <string name="green_guard_title2">Ver info. de localização</string>
+    <string name="green_guard_title2">Ver informações de localização</string>
     <string name="green_guard_title3">Gerenciar apps</string>
     <string name="greenguard_child_des">Gerencie dispositivos de amigos e familiares</string>
     <string name="greenguard_child_des_title">Digitalize o código QR para adicionar um dispositivo</string>
@@ -297,7 +297,7 @@ Ou então você não será capaz de entrar no Segundo Espaço a partir da Tela d
 para acessar o Segundo Espaço através da Tela de bloqueio"</string>
     <string name="scanner_fingerprint_error_tips_desc">"Não foi encontrada uma impressão digital correspondente. Adicionar impressão digital do Segundo Espaço?"</string>
     <string name="scanner_fingerprint_error_tips_title">"Não foi encontrada uma impressão digital correspondente"</string>
-    <string name="scanner_fingerprint_tips_desc">"Selecionar impressão digital existente para acessar o Segundo Espaço. Não será possível usaá-la no Primeiro Espaço."</string>
+    <string name="scanner_fingerprint_tips_desc">"Selecionar impressão digital existente para acessar o Segundo Espaço. Não será possível usá-la no Primeiro Espaço."</string>
     <string name="scanner_fingerprint_tips_title">Entrar no Segundo Espaço através de impressão digital</string>
     <string name="scanner_second_space_fingerprint">Ler impressão digital do Segundo Espaço</string>
     <string name="sdcardfs_dialog_message">Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para resolver este problema, siga os passos para a instalação da atualização. Seu dispositivo reiniciará duas vezes durante esta atualização.</string>
@@ -438,6 +438,7 @@ para entrar no Segundo Espaço através da Tela de bloqueio"</string>
     <string name="use_xiaoai_open">Acionar usando Mi AI</string>
     <string name="wating">Aguarde…</string>
     <string name="weibo_send">Enviar para o Weibo</string>
+    <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Fazer login e compartilhar</string>
     <string name="whatsapp_send">Compartilhar no WhatsApp</string>
     <string name="xpsace_guide_button">Criar</string>
@@ -454,9 +455,11 @@ para entrar no Segundo Espaço através da Tela de bloqueio"</string>
     <string name="xspace_description">"Dual apps são cópias de apps que podem ser usadas separadamente com uma conta diferente.
 
 Alguns dual apps requerem o suporte à Estrutura de Serviços do Google. Nestes casos, um dual app para ele será criado."</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">Use 2 contas sem trocar de telefone</string>
     <string name="xspace_guide_title">Criar um dual app</string>
     <string name="xspace_header">Dual apps</string>
+    <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_completed">Ícone adicionado à Tela inicial</string>
     <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
     <string name="xspace_install_failed">"Não foi possível criar o app"</string>
@@ -464,10 +467,14 @@ Alguns dual apps requerem o suporte à Estrutura de Serviços do Google. Nestes 
     <string name="xspace_introduce">Recomendado</string>
     <string name="xspace_label">Dual apps</string>
     <string name="xspace_loading_msg">Carregando apps…</string>
+    <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Excluir contas de dual apps"</string>
     <string name="xspace_setting_label">Configuração dos dual apps</string>
     <string name="xspace_uninstall_completed">Dual app desinstalado com sucesso</string>
     <string name="xspace_uninstall_dialog_content">Desinstalar o dual app removerá seus dados correspondentes.</string>
     <string name="xspace_uninstall_dialog_title">Desinstalar dual app</string>
     <string name="xspace_uninstalling">Desinstalando…</string>
+    <string name="xspace_weibo_title">Weibo</string>
+    <string name="xspace_weixin_title">WeChat</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

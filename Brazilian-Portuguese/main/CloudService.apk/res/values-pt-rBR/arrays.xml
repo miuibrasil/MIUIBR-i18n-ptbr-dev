@@ -18,7 +18,7 @@
     <string-array name="micloud_entrance_subtitleArray">
         <item>Sincronize seus contatos, mensagens, anotações, agenda e mais</item>
         <item>Faça o backup de apps, layout da Tela inicial e plano de fundo</item>
-        <item>Back up important settings, including WLAN and display</item>
+        <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>"Bloqueie seu dispositivo remotamente caso seja perdido"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
@@ -26,6 +26,18 @@
         <item>Backup do layout da Tela inicial</item>
         <item>Backup de configurações de sistema</item>
         <item>Encontrar dispositivo</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Para identificar seu dispositivo</item>
+        <item>Para localizar seu dispositivo e alternar para o modo perdido</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Para sincronizar eventos</item>
+        <item>Para sincronizar mensagens</item>
+        <item>Para sincronizar mensagens</item>
+        <item>Para sincronizar contatos</item>
+        <item>Para sincronizar contatos</item>
+        <item>Para salvar itens no seu dispositivo (por exemplo, imagens, vídeos, músicas)</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Backups</item>

@@ -59,7 +59,7 @@
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
-        <item>Email:</item>
+        <item>E-mail:</item>
         <item>Celular:</item>
         <item>Telefone:</item>
         <item>T:</item>
@@ -81,12 +81,12 @@
         <item>Celular:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Código Postal:</item>
+        <item>CEP:</item>
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Aviso legal:</item>
         <item>Aviso legal do E-mail</item>
-        <item>Enviado via WPSMail</item>
+        <item>Enviado com o WPS Mail</item>
         <item>Enviado de</item>
         <item>Enviado com</item>
         <item>Obrigado,</item>
@@ -101,7 +101,7 @@
         <item>Enviado de</item>
         <item>De</item>
         <item>Este e-mail</item>
-        <item>Aviso</item>
-        <item>Aviso de e-mail</item>
+        <item>Aviso legal</item>
+        <item>Aviso legal do E-mail</item>
     </string-array>
 </resources>

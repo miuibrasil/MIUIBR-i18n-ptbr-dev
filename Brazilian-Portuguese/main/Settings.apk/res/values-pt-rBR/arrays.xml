@@ -11,7 +11,7 @@
         <item>FRIO</item>
     </string-array>
     <string-array name="ai_item_action_array">
-        <item>None</item>
+        <item>N/A</item>
         <item>Ativar o Google Assistente</item>
     </string-array>
     <string-array name="ai_key_item_name">
@@ -38,9 +38,9 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animação desativada</item>
-        <item>Escala de animação 0,5x</item>
+        <item>Escala de animação 0.5x</item>
         <item>Escala de animação 1x</item>
-        <item>Escala de animação 1,5x</item>
+        <item>Escala de animação 1.5x</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
@@ -50,37 +50,37 @@
         <item>Hotspot portátil</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Nenhum</item>
+        <item>N/A</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Armazenamento do dispositivo interno</item>
+        <item>Armazenamento interno do dispositivo</item>
         <item>Cartão SD removível</item>
         <item>Deixar o sistema decidir</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Local</item>
+        <item>Localização</item>
         <item>Pessoal</item>
         <item>Mensagens</item>
         <item>Mídia</item>
         <item>Dispositivo</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Local</item>
-        <item>Local</item>
-        <item>Local</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
         <item>Vibração</item>
         <item>Ler contatos</item>
         <item>Modificar contatos</item>
-        <item>Ler registro de chamadas</item>
-        <item>Modificar registro de chamadas</item>
-        <item>Ler agenda</item>
-        <item>Modificar agenda</item>
-        <item>Local</item>
-        <item>Postar notificação</item>
-        <item>Local</item>
+        <item>Ler o histórico de chamadas</item>
+        <item>Modificar o histórico de chamadas</item>
+        <item>Ler a agenda</item>
+        <item>Modificar a agenda</item>
+        <item>Localização</item>
+        <item>Enviar notificação</item>
+        <item>Localização</item>
         <item>Chamar telefone</item>
         <item>Ler SMS/MMS</item>
         <item>Escrever SMS/MMS</item>
@@ -109,27 +109,27 @@
         <item>Volume da notificação</item>
         <item>Volume do Bluetooth</item>
         <item>Permanecer ativo</item>
-        <item>Local</item>
-        <item>Local</item>
+        <item>Localização</item>
+        <item>Localização</item>
         <item>Obter estatísticas de uso</item>
         <item>Ativar/desativar o som do microfone</item>
-        <item>Mostrar notificação toast</item>
+        <item>Mostrar alerta</item>
         <item>Projeção de mídia</item>
         <item>Ativar VPN</item>
-        <item>Escrever plano de fundo</item>
-        <item>Estrutura de assistência</item>
-        <item>Captura de tela de assistência</item>
+        <item>Definir o plano de fundo</item>
+        <item>Auxiliar na estrutura</item>
+        <item>Auxiliar na captura de tela</item>
         <item>Ler estado do telefone</item>
         <item>Adicionar correio de voz</item>
-        <item>Usar SIP</item>
+        <item>Usar o SIP</item>
         <item>Processar chamada realizada</item>
         <item>Impressão digital</item>
         <item>Sensores corporais</item>
         <item>Ler transmissões celulares</item>
         <item>Locais fictícios</item>
         <item>Ler armazenamento</item>
-        <item>Gravar armazenamento</item>
-        <item>Ativar tela</item>
+        <item>Gravar no armazenamento</item>
+        <item>Ligar a tela</item>
         <item>Adquirir contas</item>
         <item>Executar em segundo plano</item>
         <item>Volume da acessibilidade</item>
@@ -141,10 +141,10 @@
         <item>vibração</item>
         <item>ler contatos</item>
         <item>modificar contatos</item>
-        <item>ler registro de chamadas</item>
-        <item>modificar registro de chamadas</item>
-        <item>ler agenda</item>
-        <item>modificar agenda</item>
+        <item>ler o histórico de chamadas</item>
+        <item>modificar o histórico de chamadas</item>
+        <item>ler a agenda</item>
+        <item>modificar a agenda</item>
         <item>busca por Wi-Fi</item>
         <item>notificação</item>
         <item>verificação de celular</item>
@@ -180,12 +180,12 @@
         <item>monitorar local de alta potência</item>
         <item>obter estatísticas de uso</item>
         <item>ativar/desativar o som do microfone</item>
-        <item>mostrar notificação toast</item>
+        <item>mostrar alerta</item>
         <item>projeção de mídia</item>
         <item>ativar VPN</item>
-        <item>escrever plano de fundo</item>
-        <item>estrutura de assistência</item>
-        <item>captura de tela de assistência</item>
+        <item>definir o plano de fundo</item>
+        <item>assistir na estrutura</item>
+        <item>assistir na captura de tela</item>
         <item>ler estado do telefone</item>
         <item>adicionar correio de voz</item>
         <item>usar sip</item>
@@ -195,8 +195,8 @@
         <item>ler transmissões celulares</item>
         <item>locais fictícios</item>
         <item>ler armazenamento</item>
-        <item>gravar armazenamento</item>
-        <item>ativar tela</item>
+        <item>gravar no armazenamento</item>
+        <item>ligar a tela</item>
         <item>adquirir contas</item>
         <item>executar em segundo plano</item>
         <item>volume da acessibilidade</item>
@@ -204,10 +204,10 @@
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
         <item>Sem processos em segundo plano</item>
-        <item>No máximo um processo</item>
-        <item>No máximo dois processos</item>
-        <item>No máximo, três processos</item>
-        <item>No máximo quatro processos</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
     </string-array>
     <string-array name="autofill_logging_level_entries">
         <item>Desativado</item>
@@ -252,89 +252,89 @@
         <item>Modo de baixa latência</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>16 bits/amostra</item>
         <item>24 bits/amostra</item>
         <item>32 bits/amostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>16 bits/amostra</item>
         <item>24 bits/amostra</item>
         <item>32 bits/amostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Otimizado para qualidade de áudio</item>
-        <item>Qualidade de áudio e de conexão balanceada</item>
-        <item>Otimizado para qualidade de conexão</item>
-        <item>Melhor resultado (Taxa de bits adaptável)</item>
+        <item>Otimizado para Qualidade de Áudio</item>
+        <item>Áudio e Qualidade de Conexão Balanceados</item>
+        <item>Otimizado para Qualidade de Conexão</item>
+        <item>Melhor Resultado (Taxa de Bits Adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Otimizado para qualidade de áudio (990 kbps/909 kbps)</item>
-        <item>Qualidade de áudio e de conexão balanceada (660 kbps/606 kbps)</item>
-        <item>Otimizado para qualidade de conexão (330 kbps/303 kbps)</item>
-        <item>Melhor resultado (Taxa de bits adaptável)</item>
+        <item>Otimizado para Qualidade de Áudio (990 kbps/909 kbps)</item>
+        <item>Áudio e Qualidade de Conexão Balanceados (660 kbps/606 kbps)</item>
+        <item>Otimizado para Qualidade de Conexão (330 kbps/303 kbps)</item>
+        <item>Melhor Resultado (Taxa de Bits Adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>44,1 kHz</item>
         <item>48 kHz</item>
         <item>88,2 kHz</item>
         <item>96 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>44,1 kHz</item>
         <item>48 kHz</item>
         <item>88,2 kHz</item>
         <item>96 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar Seleção do Sistema (Padrão)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Áudio Qualcomm® aptX™</item>
-        <item>Áudio Qualcomm® aptX™ HD</item>
+        <item>Áudio HD Qualcomm® aptX™</item>
         <item>LDAC</item>
+        <item>Áudio Adaptável Qualcomm® aptX™</item>
         <item>Ativar codecs opcionais</item>
-        <item>Ativar Codecs opcionais</item>
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Usar seleção do sistema (padrão)</item>
+        <item>Usar preferências do sistema (Padrão)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Áudio Qualcomm® aptX™</item>
-        <item>Áudio Qualcomm® aptX™ HD</item>
+        <item>Áudio HD Qualcomm® aptX™</item>
         <item>LDAC</item>
+        <item>Áudio Adaptável Qualcomm® aptX™</item>
         <item>Ativar codecs opcionais</item>
-        <item>Ativar Codecs opcionais</item>
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>", ativo"</item>
+        <item>" | Ativo"</item>
         <item>" | Ativo (mídia)"</item>
         <item>" | Ativo (telefone)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (padrão)</item>
+        <item>AVRCP 1.4 (Padrão)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
-        <item>AVRCP 1.6</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Usar padrão do sistema: %1$d</item>
+        <item>Usar Padrão do Sistema: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -342,16 +342,16 @@
         <item>5</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>Dois minutos</item>
-        <item>Cinco minutos</item>
-        <item>Uma hora</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>1 hora</item>
         <item>Nunca definir tempo limite</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Desativado</item>
-        <item>Filtro ativado</item>
-        <item>Ativada</item>
-        <item>Ativado com pcts de mídia filtrados</item>
+        <item>Ativado e Filtrado</item>
+        <item>Ativado com Cabeçalhos Filtrados</item>
+        <item>Ativado com Pcts de Mídia Filtrados</item>
         <item>Ativado</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -396,10 +396,6 @@
         <item>Cursiva</item>
         <item>Versalete</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>R-UIM/SIM</item>
-        <item>NV</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Somente doméstica</item>
         <item>Automático</item>
@@ -422,7 +418,7 @@
         <item>Conacri</item>
         <item>Dacar</item>
         <item>Dar es Salaam</item>
-        <item>Djibouti</item>
+        <item>Djibuti</item>
         <item>Freetown</item>
         <item>Gaborone</item>
         <item>Harare</item>
@@ -468,7 +464,7 @@
         <item>Havana</item>
         <item>Indianápolis</item>
         <item>Knox City</item>
-        <item>Petersburg</item>
+        <item>Petersburgo</item>
         <item>Tell City</item>
         <item>Vevay</item>
         <item>Vincennes</item>
@@ -478,7 +474,7 @@
         <item>Lima</item>
         <item>Los Angeles</item>
         <item>Louisville</item>
-        <item>Managua</item>
+        <item>Manágua</item>
         <item>Martinica</item>
         <item>Metlakatla</item>
         <item>Cidade do México</item>
@@ -488,7 +484,7 @@
         <item>Nassau</item>
         <item>Nova Iorque</item>
         <item>Beulah</item>
-        <item>New Salem</item>
+        <item>Nova Salém</item>
         <item>Panamá</item>
         <item>Phoenix</item>
         <item>Porto de Espanha</item>
@@ -507,13 +503,13 @@
         <item>Pólo Sul</item>
         <item>Longyearbyen</item>
         <item>Almaty</item>
-        <item>Amman</item>
+        <item>Amã</item>
         <item>Anadyr</item>
         <item>Aqtau</item>
         <item>Bagdá</item>
-        <item>Bahrein</item>
+        <item>Barein</item>
         <item>Baku</item>
-        <item>Bangkok</item>
+        <item>Banguecoque</item>
         <item>Beirute</item>
         <item>Calcutá</item>
         <item>Damasco</item>
@@ -532,12 +528,12 @@
         <item>Kuwait</item>
         <item>Macau</item>
         <item>Manila</item>
-        <item>Muscat</item>
+        <item>Mascate</item>
         <item>Phnom Penh</item>
         <item>Pyongyang</item>
-        <item>Qatar</item>
-        <item>Rangoon</item>
-        <item>Riyadh</item>
+        <item>Catar</item>
+        <item>Rangum</item>
+        <item>Riade</item>
         <item>Seul</item>
         <item>Xangai</item>
         <item>Cingapura</item>
@@ -549,18 +545,18 @@
         <item>Bermudas</item>
         <item>Ilhas Canárias</item>
         <item>Cabo Verde</item>
-        <item>Reykjavik</item>
+        <item>Reiquiavique</item>
         <item>Adelaide</item>
         <item>Brisbane</item>
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Nova Gales do Sul</item>
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sidney</item>
         <item>Victoria</item>
-        <item>Newfoundland</item>
+        <item>Terra Nova e Labrador</item>
         <item>Saskatchewan</item>
         <item>Ilha de Páscoa</item>
         <item>Amsterdã</item>
@@ -568,7 +564,7 @@
         <item>Atenas</item>
         <item>Belfast</item>
         <item>Belgrado</item>
-        <item>Berlin</item>
+        <item>Berlim</item>
         <item>Bratislava</item>
         <item>Bruxelas</item>
         <item>Bucareste</item>
@@ -579,7 +575,7 @@
         <item>Gibraltar</item>
         <item>Helsinque</item>
         <item>Ilha de Man</item>
-        <item>Istanbul</item>
+        <item>Istambul</item>
         <item>Lisboa</item>
         <item>Londres</item>
         <item>Luxemburgo</item>
@@ -614,10 +610,10 @@
         <item>Guam</item>
         <item>Honolulu</item>
         <item>Kiritimati</item>
-        <item>Noumea</item>
+        <item>Nouméa</item>
         <item>Samoa</item>
         <item>Taiti</item>
-        <item>Antigua</item>
+        <item>Antígua</item>
         <item>Austin</item>
         <item>Boston</item>
         <item>Calgary</item>
@@ -671,7 +667,7 @@
         <item>Ankara</item>
         <item>Bengaluru</item>
         <item>Brasília</item>
-        <item>Cape Town</item>
+        <item>Cidade do Cabo</item>
         <item>Islamabad</item>
         <item>Rio de Janeiro</item>
         <item>Ann Arbor</item>
@@ -684,16 +680,16 @@
         <item>Reston</item>
         <item>Belo Horizonte</item>
         <item>Santiago</item>
-        <item>Monrovia</item>
+        <item>Monróvia</item>
         <item>Colombo</item>
         <item>Chihuahua</item>
         <item>Gurugram</item>
         <item>Manchester</item>
-        <item>Kyiv</item>
-        <item>St. Petersburg</item>
-        <item>Kraków</item>
-        <item>Wroclaw</item>
-        <item>Hamburg</item>
+        <item>Kiev</item>
+        <item>São Petersburgo</item>
+        <item>Cracóvia</item>
+        <item>Breslávia</item>
+        <item>Hamburgo</item>
         <item>Oulu</item>
         <item>Haifa</item>
         <item>San Juan</item>
@@ -743,9 +739,9 @@
         <item>"Hoje (dados móveis) "</item>
         <item>"Este mês (dados móveis) "</item>
         <item>"Mês passado (dados móveis) "</item>
-        <item>"Today (WLAN) "</item>
-        <item>"This month (WLAN) "</item>
-        <item>"Last month (WLAN) "</item>
+        <item>"Hoje (Wi-Fi) "</item>
+        <item>"Este mês (Wi-Fi) "</item>
+        <item>"Mês passado (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Hoje "</item>
@@ -760,7 +756,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Desativado</item>
         <item>Mostrar áreas de overdraw</item>
-        <item>Mostrar áreas para daltonismo</item>
+        <item>Mostrar áreas para Deuteronomia</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
@@ -818,14 +814,19 @@
         <item>Forte</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nunca usar a verificação HDCP</item>
-        <item>Usar a verificação HDCP somente para conteúdo DRM</item>
-        <item>Sempre usar a verificação HDCP</item>
+        <item>Nunca usar a verificação de HDCP</item>
+        <item>Usar a verificação de HDCP apenas para conteúdo DRM</item>
+        <item>Sempre usar a verificação de HDCP</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
-        <item>Verificar somente conteúdo DRM</item>
+        <item>Verificar apenas conteúdo DRM</item>
         <item>Sempre verificar</item>
+    </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>"Não ligar a tela"</item>
+        <item>Ligar a tela</item>
+        <item>Mostrar animação</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Azul</item>
@@ -874,7 +875,7 @@
         <item>Nenhuma ação</item>
         <item>Modo de disparo rápido (foto)</item>
         <item>Modo de disparo rápido (vídeo)</item>
-        <item>Atalhos de transportes públicos</item>
+        <item>Atalho para cartão de transporte público</item>
     </string-array>
     <string-array name="max_number_titles">
         <item>6</item>
@@ -938,7 +939,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Reinstale o Mi PC Suite</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Nenhum</item>
+        <item>N/A</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -958,227 +959,9 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Pesquisar</item>
         <item>Configurações</item>
     </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-        <item>hr</item>
-        <item>cu</item>
-        <item>cy</item>
-        <item>cz</item>
-        <item>dk</item>
-        <item>dj</item>
-        <item>dm</item>
-        <item>do</item>
-        <item>ec</item>
-        <item>eg</item>
-        <item>sv</item>
-        <item>gq</item>
-        <item>er</item>
-        <item>ee</item>
-        <item>et</item>
-        <item>fk</item>
-        <item>fo</item>
-        <item>fj</item>
-        <item>fi</item>
-        <item>fr</item>
-        <item>gf</item>
-        <item>pf</item>
-        <item>ga</item>
-        <item>gm</item>
-        <item>ge</item>
-        <item>de</item>
-        <item>gh</item>
-        <item>gi</item>
-        <item>gr</item>
-        <item>gl</item>
-        <item>gd</item>
-        <item>gu</item>
-        <item>gt</item>
-        <item>gg</item>
-        <item>gn</item>
-        <item>gw</item>
-        <item>gy</item>
-        <item>ht</item>
-        <item>hn</item>
-        <item>hk</item>
-        <item>hu</item>
-        <item>is</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>iq</item>
-        <item>ie</item>
-        <item>im</item>
-        <item>il</item>
-        <item>it</item>
-        <item>jm</item>
-        <item>jp</item>
-        <item>je</item>
-        <item>jo</item>
-        <item>kz</item>
-        <item>ke</item>
-        <item>ki</item>
-        <item>kw</item>
-        <item>kg</item>
-        <item>la</item>
-        <item>lv</item>
-        <item>lb</item>
-        <item>ls</item>
-        <item>lr</item>
-        <item>ly</item>
-        <item>li</item>
-        <item>lt</item>
-        <item>lu</item>
-        <item>mo</item>
-        <item>mk</item>
-        <item>mg</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mv</item>
-        <item>ml</item>
-        <item>mt</item>
-        <item>mh</item>
-        <item>mr</item>
-        <item>mu</item>
-        <item>yt</item>
-        <item>mx</item>
-        <item>fm</item>
-        <item>md</item>
-        <item>mn</item>
-        <item>me</item>
-        <item>ms</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>nr</item>
-        <item>np</item>
-        <item>nl</item>
-        <item>nc</item>
-        <item>nz</item>
-        <item>ni</item>
-        <item>ng</item>
-        <item>nu</item>
-        <item>nf</item>
-        <item>kp</item>
-        <item>mp</item>
-        <item>no</item>
-        <item>om</item>
-        <item>pk</item>
-        <item>pw</item>
-        <item>ps</item>
-        <item>pa</item>
-        <item>pg</item>
-        <item>py</item>
-        <item>pe</item>
-        <item>ph</item>
-        <item>pl</item>
-        <item>pt</item>
-        <item>pr</item>
-        <item>qa</item>
-        <item>ro</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sh</item>
-        <item>kn</item>
-        <item>lc</item>
-        <item>pm</item>
-        <item>vc</item>
-        <item>ws</item>
-        <item>sm</item>
-        <item>st</item>
-        <item>sa</item>
-        <item>sn</item>
-        <item>rs</item>
-        <item>sc</item>
-        <item>sl</item>
-        <item>sg</item>
-        <item>sk</item>
-        <item>si</item>
-        <item>sb</item>
-        <item>so</item>
-        <item>za</item>
-        <item>gs</item>
-        <item>kr</item>
-        <item>ss</item>
-        <item>es</item>
-        <item>lk</item>
-        <item>sd</item>
-        <item>sr</item>
-        <item>sz</item>
-        <item>se</item>
-        <item>ch</item>
-        <item>sy</item>
-        <item>tw</item>
-        <item>tj</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tl</item>
-        <item>tg</item>
-        <item>tk</item>
-        <item>to</item>
-        <item>tt</item>
-        <item>tn</item>
-        <item>tr</item>
-        <item>tm</item>
-        <item>tv</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>gb</item>
-        <item>us</item>
-        <item>uy</item>
-        <item>uz</item>
-        <item>vu</item>
-        <item>ve</item>
-        <item>vn</item>
-        <item>ye</item>
-        <item>zm</item>
-        <item>zw</item>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
@@ -1243,6 +1026,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
@@ -1306,14 +1094,19 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Mostrar menu</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Adjust colors based on the current lighting</item>
-        <item>Always enhance colors</item>
-        <item>O contraste permanecerá constante</item>
+        <item>Ajustar cores com base na iluminação atual</item>
+        <item>Sempre aprimorar cores</item>
+        <item>Restaurar cor padrão do conteúdo da tela com calibração de cor</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Auto (recommended)</item>
-        <item>Saturated</item>
-        <item>Padrão</item>
+        <item>Automático (recomendado)</item>
+        <item>Saturado</item>
+        <item>Cor original</item>
+    </string-array>
+    <string-array name="screen_resolution_text">
+        <item>2K</item>
+        <item>1080p</item>
+        <item>720p</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brilhante</item>
@@ -1340,41 +1133,49 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desativado</item>
-        <item>64 K/buffer de registro</item>
-        <item>256 K/buffer de registro</item>
-        <item>1 M/buffer de registro</item>
-        <item>4 M/buffer de registro</item>
-        <item>16 M/buffer de registro</item>
+        <item>64KB por buffer de log</item>
+        <item>256KB por buffer de log</item>
+        <item>1MB por buffer de log</item>
+        <item>4MB por buffer de log</item>
+        <item>16MB por buffer de log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>16 M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Desativado</item>
+        <item>Erro</item>
+        <item>Alerta</item>
+        <item>Informação</item>
+        <item>Depuração</item>
+        <item>Detalhado</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desativado</item>
-        <item>Todos os buffers de registro</item>
-        <item>Todos, exceto os buffers de registro de rádio</item>
-        <item>somente buffer de registro de kernel</item>
+        <item>Todos os buffers de log</item>
+        <item>Todos os buffers de log exceto rádio</item>
+        <item>Apenas buffer de log do kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desativado</item>
         <item>Todos</item>
         <item>Todos, exceto o rádio</item>
-        <item>somente kernel</item>
+        <item>Apenas kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desativado</item>
-        <item>Desenhar região de corte não retangular em azul</item>
+        <item>Desenhar regiões de corte não retangular em azul</item>
         <item>Destacar comandos de desenho testados em verde</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
@@ -1383,6 +1184,13 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>1 hora</item>
         <item>2 horas</item>
         <item>8 horas</item>
+    </string-array>
+    <string-array name="special_locale_names_global">
+        <item>Chinês simplificado</item>
+        <item>Chinês tradicional (Taiwan)</item>
+        <item>Chinês tradicional (Hong Kong)</item>
+        <item>Espanhol (América)</item>
+        <item>Português (Brasil)</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
@@ -1405,7 +1213,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
         <item>Na tela em barras</item>
-        <item>Em adb shell dumpsys gfxinfo</item>
+        <item>No adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desativado</item>
@@ -1414,16 +1222,16 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Uso de dados móveis "</item>
-        <item>"WLAN usage "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animação desligada</item>
-        <item>Escala da animação 0,5 x</item>
-        <item>Escala da animação 1x</item>
-        <item>Escala de animação 1,5 x</item>
-        <item>Escala da animação 2x</item>
-        <item>Escala de animação 5 x</item>
-        <item>Escala de animação 10 x</item>
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muito devagar</item>
@@ -1432,8 +1240,8 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Rápida</item>
         <item>Mais rápida</item>
         <item>Muito rápida</item>
-        <item>Rápida</item>
-        <item>Muito rápida</item>
+        <item>Rapidíssima</item>
+        <item>Extremamente rápida</item>
         <item>Super-rápida</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
@@ -1449,23 +1257,30 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Nome do app</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Carregamento</item>
-        <item>MTP (protocolo de transferência de mídia)</item>
-        <item>PTP (protocolo de transferência de imagens)</item>
+        <item>Carregar dispositivo</item>
+        <item>MTP (Protocolo de Transferência de Mídia)</item>
+        <item>PTP (Protocolo de Transferência de Imagem)</item>
         <item>RNDIS (Ethernet USB)</item>
         <item>Fonte de áudio</item>
-        <item>MIDI (som)</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Perguntar na conexão</item>
         <item>Apenas carregar</item>
         <item>Montar cartão SD</item>
     </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ser ascendido</item>
+        <item>Humano</item>
+        <item>Neandertal</item>
+        <item>Chimpanzé</item>
+        <item>Macaco</item>
+    </string-array>
     <string-array name="vip_mode_text">
         <item>De qualquer pessoa</item>
         <item>Apenas de contatos</item>
         <item>Apenas de contatos favoritos</item>
-        <item>Nenhum</item>
+        <item>N/A</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Nenhum</item>
@@ -1507,18 +1322,23 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Porcentagem (próxima ao ícone na Área de notificações)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Celular</item>
-        <item>WLAN only</item>
+        <item>Somente Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Celular</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectar automaticamente</item>
         <item>Conectar manualmente</item>
         <item>Sempre perguntar</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automático</item>
+        <item>Apenas 5 GHz</item>
+        <item>Apenas 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Não</item>
@@ -1546,7 +1366,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>PIN deste disposit.</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Nenhum</item>
+        <item>N/A</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -1559,14 +1379,14 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>Nenhum</item>
+        <item>N/A</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Usar MAC aleatório (padrão)</item>
+        <item>Usar MAC aleatório</item>
         <item>Usar MAC do dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
@@ -1595,31 +1415,31 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Suspenso</item>
         <item>Desconectando…</item>
         <item>Desconectado</item>
-        <item>Falha</item>
+        <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Temporariamente evitando uma conexão ruim</item>
+        <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
-        <item>Autenticando com a %1$s…</item>
-        <item>Obtendo endereço IP da %1$s…</item>
+        <item>Autenticando-se com %1$s…</item>
+        <item>Obtendo endereço IP de %1$s…</item>
         <item>Conectado a %1$s</item>
         <item>Suspenso</item>
-        <item>Desconectando da %1$s…</item>
+        <item>Desconectando-se de %1$s…</item>
         <item>Desconectado</item>
-        <item>Falha</item>
+        <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Temporariamente evitando uma conexão ruim</item>
+        <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animação desligada</item>
-        <item>Escala da animação 0,5 x</item>
-        <item>Escala da animação 1x</item>
-        <item>Escala de animação 1,5 x</item>
-        <item>Escala da animação 2x</item>
-        <item>Escala de animação 5 x</item>
-        <item>Escala de animação 10 x</item>
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
 </resources>

@@ -20,9 +20,9 @@
         <item>"Mês passado (dados móveis) "</item>
         <item>"Este mês (dados móveis) "</item>
         <item>"Ontem (Wi-Fi) "</item>
-        <item>"Today (WLAN) "</item>
-        <item>"Last month (WLAN) "</item>
-        <item>"This month (WLAN) "</item>
+        <item>"Hoje (Wi-Fi) "</item>
+        <item>"Mês passado (Wi-Fi) "</item>
+        <item>"Este mês (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Ontem "</item>
@@ -48,7 +48,7 @@
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Sim</item>
-        <item>No</item>
+        <item>Não</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Quando o dispositivo estiver bloqueado</item>
@@ -57,7 +57,7 @@
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Uso de dados "</item>
-        <item>"WLAN usage "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostrar alerta</item>
@@ -111,6 +111,6 @@
     </string-array>
     <string-array name="traffic_type">
         <item>"Uso de dados móveis "</item>
-        <item>"WLAN usage "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
 </resources>

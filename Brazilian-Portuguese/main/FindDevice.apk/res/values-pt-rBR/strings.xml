@@ -38,6 +38,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="lock_msg_phone">Informações de contato: %s</string>
     <string name="login_extra_steps">Verificação de login</string>
     <string name="login_failed">"Não foi possível fazer o login. %s."</string>
+    <string name="open_wifi_settings">Abrir configurações do Wi-Fi</string>
     <string name="passport_checking_vcode">Verificando a senha…</string>
     <string name="passport_error_empty_vcode">Inserir código de verificação</string>
     <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>

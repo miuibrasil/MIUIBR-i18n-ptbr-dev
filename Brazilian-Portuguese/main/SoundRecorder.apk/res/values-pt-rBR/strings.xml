@@ -32,6 +32,9 @@
     <string name="dialog_privacy_revoke_tips">"Depois que você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização de serviços Xiaomi Cloud."</string>
     <string name="dialog_title_storage_full">Não há espaço suficiente</string>
     <string name="download">Baixar</string>
+    <string name="duration_format_hour">%sh</string>
+    <string name="duration_format_minute">%sm</string>
+    <string name="duration_format_second">%ss</string>
     <string name="empty_recognition_tip">Vazio</string>
     <string name="err_msg_abandon">O pedido foi abandonado</string>
     <string name="err_msg_complete">O pedido foi concluído</string>
@@ -103,6 +106,7 @@
     <string name="online_recognize_duration_limite">(A partir de 10 minutos)</string>
     <string name="online_recognize_fail">"Não foi possível transcrever"</string>
     <string name="online_recognize_login_fail">"Não foi possível fazer o login"</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Fazer login</string>
     <string name="online_recognize_order_duration_key">Duração</string>
     <string name="online_recognize_order_pay">Pagar e ver resultados</string>
@@ -112,6 +116,7 @@
     <string name="online_recognize_order_service_type_key">Tipo de serviço</string>
     <string name="online_recognize_order_service_type_value">Transcrição de áudio online</string>
     <string name="online_recognize_order_title">Confirmar pedido</string>
+    <string name="online_recognize_order_total_price_key">Total</string>
     <string name="online_recognize_order_unit_price_key">Preço</string>
     <string name="online_recognize_order_unit_price_value">%s CNY/hora</string>
     <string name="online_recognize_order_upload">Confirmar e fazer upload</string>
@@ -121,6 +126,7 @@
     <string name="online_recognize_service_unavailable">"O serviço não está disponível agora. Aguarde alguns minutos e tente novamente."</string>
     <string name="order_item_duration">Duração: %s</string>
     <string name="order_item_number">Número do pedido: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Apps do sistema/Gravador</string>
     <string name="pause">Pausar</string>
     <string name="pay_error_cancel">O pagamento foi cancelado</string>
@@ -128,12 +134,12 @@
     <string name="pay_error_unknown">Erro desconhecido</string>
     <string name="playback_delete_records">Excluir gravação</string>
     <string name="playback_share_records">Compartilhar gravação</string>
-    <string name="preference_enable_earpiece_summary">Usar o minifone do aparelho para reprodução externa de áudio</string>
-    <string name="preference_enable_earpiece_title">Usar minifone para reprodução</string>
+    <string name="preference_enable_earpiece_summary">Usar o receptor do aparelho para reprodução externa de áudio</string>
+    <string name="preference_enable_earpiece_title">Usar receptor para reproduzir áudio</string>
     <string name="preference_led_indicator">Notificações na tela de bloqueio</string>
     <string name="preference_led_indicator_prompt">Durante a gravação, mostrar atalho na barra de status e pulsar o led de notificações</string>
     <string name="preference_online_orders">Pedidos online</string>
-    <string name="preference_recog_faqs">FAQ da transcrição online</string>
+    <string name="preference_recog_faqs">Perguntas frequentes da Transcrição online</string>
     <string name="preference_recog_terms">Termos de Serviço</string>
     <string name="preference_record_scenes_dialog_title">Escolha o tipo de gravação</string>
     <string name="preference_scenes">Tipo de gravação</string>
@@ -218,7 +224,7 @@
     <string name="retry">Repetir</string>
     <string name="runtime_permission_ungranted">"Não é possível usar o Gravador devido a permissões não concedidas"</string>
     <string name="search_app">Gravador</string>
-    <string name="search_enable_earpiece_title">Usar minifone para reprodução</string>
+    <string name="search_enable_earpiece_title">Usar auricular para reproduzir áudio</string>
     <string name="search_led_indicator">Notificações na tela de bloqueio</string>
     <string name="search_led_indicator_prompt">Durante a gravação, mostrar atalho na barra de status e pulsar o led de notificações na Tela de bloqueio</string>
     <string name="search_quliaty_title">Qualidade de gravação</string>
@@ -248,6 +254,7 @@
     <string name="text_btn_recognize">Transcrever</string>
     <string name="text_btn_recognize_pending">"Pendente "</string>
     <string name="text_btn_recording">Gravar</string>
+    <string name="text_btn_wave">Onda</string>
     <string name="text_finish">Confirmar</string>
     <string name="text_play_speed_0_5">Velocidade de reprodução 0.5X</string>
     <string name="text_play_speed_1_0">Velocidade de reprodução normal</string>
@@ -255,6 +262,7 @@
     <string name="text_play_speed_2_0">Velocidade de reprodução 2X</string>
     <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>
     <string name="toast_uninstall_fileexplorer">"O Gerenciador de Arquivos não está instalado"</string>
+    <string name="usage_description">Transcrever áudio e sincronizar itens com a nuvem</string>
     <string name="webview_check_network">Configurações de rede</string>
     <string name="webview_data_error">Ocorreu um erro</string>
     <string name="webview_locating_fail">"Não foi possível encontrar sua localização"</string>

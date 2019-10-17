@@ -67,6 +67,7 @@
     <string name="create_shortcut_sum">Mostrar \"Atualizações\" na Tela inicial</string>
     <string name="create_shortcut_title">Adicionar atalho à Tela inicial</string>
     <string name="current_version">Versão atual</string>
+    <string name="daily_build">Diária</string>
     <string name="delay_update_text">Atualizar hoje à noite</string>
     <string name="dialog_delay_update_cancel">Cancelar</string>
     <string name="dialog_delay_update_msg">As atualizações serão instaladas entre 2:00 e 5:00 AM se a bateria estiver acima de 30%.</string>
@@ -74,6 +75,7 @@
     <string name="dialog_delay_update_title">Atualização disponível</string>
     <string name="dialog_delay_update_tonight">OK</string>
     <string name="disable">"Desativar"</string>
+    <string name="discuss_in_mi_community">Debata sobre os novos recursos na Mi Community</string>
     <string name="download_again">Tentar novamente</string>
     <string name="download_cancel">Cancelar</string>
     <string name="download_current_rom">Reinicie para atualizar</string>
@@ -107,6 +109,8 @@
     <string name="exo_download_failed">Falha no download</string>
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Removendo downloads</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Automática</string>
     <string name="exo_track_selection_none">Nenhuma</string>
     <string name="exo_track_selection_title_audio">Áudio</string>
@@ -117,6 +121,7 @@
     <string name="exo_track_surround_5_point_1">Sistema surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Sistema surround 7.1</string>
     <string name="exo_track_unknown">Desconhecido</string>
+    <string name="experimental_build">Alpha</string>
     <string name="express_entry_none">N/A</string>
     <string name="express_entry_not_reserve">"Não solicitado"</string>
     <string name="express_entry_note">Nota:</string>
@@ -140,6 +145,7 @@
     <string name="format_cache_msg">"Não há espaço suficiente para uma atualização na partição de cache do seu dispositivo. Toque em \"Reiniciar\" para limpar o cache e reiniciar o dispositivo. Seus dados não serão afetados por esta ação."</string>
     <string name="format_cache_positive_button">Reiniciar</string>
     <string name="format_cache_title">Espaço insuficiente na partição de cache</string>
+    <string name="get_auto">Usar redes móveis ou Wi-Fi</string>
     <string name="get_current">Obter versão atual</string>
     <string name="go_on_download">Baixar</string>
     <string name="home_delay_cancel">Cancelar</string>
@@ -151,6 +157,7 @@
     <string name="home_dialog_msg">Atualização pronta para instalar. Toque em \"Reiniciar\" para concluir.</string>
     <string name="home_dialog_negative_button">Agora não</string>
     <string name="home_dialog_positive_button">Reiniciar</string>
+    <string name="home_dialog_title">MIUI 9. Lightning fast.</string>
     <string name="important_suggestion">A Política de Privacidade mudou</string>
     <string name="install">Instalar</string>
     <string name="install_failed">"Não foi possível atualizar o MIUI"</string>
@@ -175,6 +182,7 @@
     <string name="menu_title_current_version_log">"O que há de novo"</string>
     <string name="menu_title_download_current_rom">Baixar o pacote mais recente</string>
     <string name="menu_title_express_update">Solicitar atualização de ROM estável</string>
+    <string name="menu_title_feedback">Feedback</string>
     <string name="menu_title_more">Mais</string>
     <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>
     <string name="menu_title_privacy">Política de Privacidade</string>
@@ -198,6 +206,7 @@
     <string name="no_log">Nenhum registro disponível</string>
     <string name="no_wifi_msg">"Você está usando a rede móvel agora. O download de atualizações pode gerar tarifas de dados adicionais. Você pode baixar atualizações agora ou esperar até que o seu dispositivo conecte-se a uma rede Wi-Fi."</string>
     <string name="no_wifi_no_auto_msg">"Você está usando a rede móvel agora. O download de atualizações pode gerar tarifas de dados adicionais. Você pode baixar atualizações agora ou esperar até que o seu dispositivo conecte-se a uma rede Wi-Fi e instale atualizações automaticamente."</string>
+    <string name="no_wifi_title">Conecte-se ao Wi-Fi</string>
     <string name="not_open">Não</string>
     <string name="notification_auto_reboot_seccess_title">Dispositivo atualizado automaticamente</string>
     <string name="notification_delay_update_low_power">Parece que a bateria estava fraca durante a noite</string>
@@ -233,7 +242,8 @@
     <string name="open_auto_download">Baixar automaticamente</string>
     <string name="open_now">Sim</string>
     <string name="other_setting">Outros</string>
-    <string name="path_updater_settings">Configurações/Meu dispositivo/Versão do MIUI</string>
+    <string name="particular_build">Particular</string>
+    <string name="path_updater_settings">Configurar/Meu dispositivo/Versão do MIUI</string>
     <string name="pause">Pausar</string>
     <string name="pm_root_acquired_button">Acesso root</string>
     <string name="pm_root_acquired_notification_title">Obtendo acesso root</string>
@@ -251,7 +261,9 @@
     <string name="privacy_revoke_msg">O app Atualizações permite que você mantenha o MIUI e os seus recursos atualizados. Depois de revogar a autorização, o app parará de coletar dados, e todos os dados relacionados (incluindo dados sobre dispositivos que precisam de atualizações) serão excluídos deste dispositivo e dos servidores. A não atualização do seu dispositivo pode trazer riscos de segurança. Revogar autorização mesmo assim?</string>
     <string name="provision_activate_device">Ativando o dispositivo…</string>
     <string name="provision_check_sim">Verificar cartão SIM novamente</string>
+    <string name="provision_connect_wifi">Conecte-se ao Wi-Fi</string>
     <string name="provision_have_sim">Cartão SIM inserido</string>
+    <string name="provision_no_network_extra">"Parece que este dispositivo não está conectado à rede. Conecte-se a uma rede Wi-Fi ou insira um cartão SIM para ativar este dispositivo. A ativação torna seu dispositivo elegível para serviços de garantia. Você não poderá usar este dispositivo a menos que esteja ativado."</string>
     <string name="provision_no_network_title">Conecte-se à rede</string>
     <string name="provision_retry">Tente novamente</string>
     <string name="provision_toast_no_network">Conecte-se à rede primeiro</string>
@@ -292,6 +304,9 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_installfail_title">Tentar baixar a atualização novamente?</string>
     <string name="set_installfail_title_full">"Não é possível atualizar"</string>
     <string name="set_network_msg">Para baixar esta atualização, conecte-se a uma rede Wi-Fi.</string>
+    <string name="set_network_root_msg">Para obter o acesso root, conecte-se a uma rede Wi-Fi.</string>
+    <string name="set_network_title">Conecte-se a uma rede Wi-Fi</string>
+    <string name="set_only_wifi">Usar somente Wi-Fi</string>
     <string name="share_sina">Compartilhar no Sina Weibo</string>
     <string name="share_update">Compartilhar informações de atualização</string>
     <string name="share_update_content_sign">"Eu atualizei o MIUI para %1$s! Eu fui a %2$s pessoa a atualizá-la. Para ver o changelog detalhado, por favor visite %3$s\""</string>

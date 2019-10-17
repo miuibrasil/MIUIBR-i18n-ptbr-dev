@@ -32,6 +32,7 @@
     <string name="gleam_led_while_recording">Piscar LED de notificação ao gravar</string>
     <string name="hint_back">Voltar</string>
     <string name="hint_home">Início</string>
+    <string name="hint_menu">Menu</string>
     <string name="hint_power">Liga/Desliga</string>
     <string name="hint_volume_down">Diminuir volume</string>
     <string name="hint_volume_up">Aumentar volume</string>
@@ -55,6 +56,7 @@
     <string name="operation_send">Enviar</string>
     <string name="permission_intro_microphone">Para gravar o som quando a fonte de áudio estiver configurada como microfone</string>
     <string name="permission_intro_storage">Para salvar gravações da tela</string>
+    <string name="permission_microphone_desc">Usar o microfone como fonte de áudio para gravações de tela</string>
     <string name="quit_recording">Sair do Gravador de Tela</string>
     <string name="recording_failure">"Não foi possível gravar, tente novamente"</string>
     <string name="recording_max_size">"A gravação foi parada e salva porque o arquivo do vídeo atingiu seu limite de tamanho. Inicie a gravação navamente caso deseje continuar a gravar."</string>
@@ -67,10 +69,16 @@
     <string name="screen_record_params">Parâmetros da gravação</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="settings">Configurações</string>
+    <string name="settings_other">Outros</string>
+    <string name="settings_privacy">Política de Privacidade</string>
     <string name="show_hard_key">Visualizar botões de navegação</string>
     <string name="show_hard_key_summary">Mostrar avisos ao pressionar os botões Início, Menu e Voltar</string>
     <string name="show_screen_touch">Mostrar gestos de toque</string>
     <string name="show_screen_touch_summary">Mostrar gestos de toque usando um ponto branco na tela</string>
+    <string name="size_byte">B</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
     <string name="sound_source">Fonte de áudio</string>
     <string name="sound_source_summary">Sons do sistema ou microfone</string>
     <string name="sound_source_summary_without_system_sounds">Usar microfone ou silenciar som</string>

@@ -26,7 +26,7 @@
         <item>Todos os eventos na série</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Apenas esta vez</item>
+        <item>Só esta vez</item>
         <item>Desativar lembrete repetido</item>
     </string-array>
     <string-array name="date_calculate_spinner">
@@ -62,7 +62,7 @@
         <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
-        <item>leo</item>
+        <item>leão</item>
         <item>Leão</item>
         <item>23/7 - 22/8</item>
     </string-array>
@@ -72,7 +72,7 @@
         <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Apenas esta vez</item>
+        <item>Só esta vez</item>
         <item>Definir lembrete repetido</item>
     </string-array>
     <string-array name="pisces_info">
@@ -83,7 +83,7 @@
     <string-array name="prefEntries_alerts_popup_new">
         <item>Desativado</item>
         <item>Para todos os eventos</item>
-        <item>Para eventos urgentes</item>
+        <item>Para eventos críticos</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
@@ -363,12 +363,12 @@
         <item>Fundo branco</item>
     </string-array>
     <string-array name="year_view_week_header_name">
+        <item>D</item>
         <item>S</item>
         <item>T</item>
         <item>Q</item>
         <item>Q</item>
         <item>S</item>
         <item>S</item>
-        <item>D</item>
     </string-array>
 </resources>

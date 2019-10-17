@@ -3,7 +3,7 @@
 <resources>
     <string name="app_name">Backup na nuvem</string>
     <string name="settings_backup">Configurações do sistema</string>
-    <string name="deskclock_backup">Alarmes</string>
+    <string name="deskclock_backup">Alarme</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_next">Avançar</string>
     <string name="date_format">HH:mm:ss, dd/MM/yyyy</string>

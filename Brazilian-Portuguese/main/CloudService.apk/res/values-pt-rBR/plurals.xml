@@ -53,6 +53,10 @@
         <item quantity="other">"%d fotos ocultas não estão sincronizadas. Faça o logout depois que todos os itens forem sincronizados para mantê-los, senão os itens serão excluídos."</item>
         <item quantity="one">"%d foto oculta não está sincronizada. Faça o logout depois que todos os itens forem sincronizados para mantê-los, senão os itens serão excluídos."</item>
     </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d redes Wi-Fi</item>
+        <item quantity="one">%d rede Wi-Fi</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Itens aguardando sincronização: %d</item>
         <item quantity="one">Item aguardando sincronização: %d</item>

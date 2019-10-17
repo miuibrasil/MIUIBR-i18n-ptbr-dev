@@ -5,13 +5,69 @@
         <item quantity="other">Total de %d músicas</item>
         <item quantity="one">Total de %d música</item>
     </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d artistas</item>
+        <item quantity="one">%d artista</item>
+    </plurals>
     <plurals name="Nassociate_songs">
         <item quantity="other">Procurando por capas de álbuns e letras (%1$d/%2$d)</item>
         <item quantity="one">Procurando por capas de álbuns e letras (%1$d/%2$d)</item>
     </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Fazendo backup de músicas, %1$d músicas restantes (%2$.1fMB)</item>
+        <item quantity="one">Fazendo backup de músicas, %1$d música restante (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">"A pedido do proprietário dos direitos autorais, %d músicas selecionadas não podem ser baixadas gratuitamente. Estas músicas foram adicionadas aos downloads."</item>
+        <item quantity="one">"A pedido do proprietário dos direitos autorais, %d música selecionada não pode ser baixada gratuitamente. Esta música foi adicionada aos downloads."</item>
+    </plurals>
+    <plurals name="Ndownload_song_button">
+        <item quantity="other">Baixar %1$d músicas (%2$.1fMB)</item>
+        <item quantity="one">Baixar %1$d música (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_songs">
+        <item quantity="other">Baixando músicas, %1$d músicas (%2$.1fM)</item>
+        <item quantity="one">Baixando músicas, %1$d música (%2$.1fM)</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d bandas</item>
+        <item quantity="one">%d banda</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="one">%d novo</item>
+        <item quantity="other">%d novos</item>
+    </plurals>
+    <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d músicas)</item>
+        <item quantity="one">(%d música)</item>
+    </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">O Mi Music vai parar a reprodução em %d minutos</item>
-        <item quantity="one">O Mi Music vai parar a reprodução em %d minuto</item>
+        <item quantity="other">O Mi Música vai parar a reprodução em %d minutos</item>
+        <item quantity="one">O Mi Música vai parar a reprodução em %d minuto</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Você escolheu não encontrar automaticamente capas de álbuns e letras para músicas locais. Excluir informações para %d músicas?</item>
+        <item quantity="one">Você escolheu não encontrar automaticamente capas de álbuns e letras para músicas locais. Excluir informações para %d música?</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d minutos restantes</item>
+        <item quantity="one">%d minuto restante</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning_custom">
+        <item quantity="other">Personalizado: %d minutos restantes</item>
+        <item quantity="one">Personalizado: %d minuto restante</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Criado em %1$s | total %2$d músicas</item>
+        <item quantity="one">Criado em %1$s | total %2$d música</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d músicas não foram salvas na Xiaomi Cloud. Parar agora?"</item>
+        <item quantity="one">"%d música não foi salva na Xiaomi Cloud. Parar agora?"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d músicas adicionadas na playlist</item>
@@ -25,13 +81,49 @@
         <item quantity="other">%d músicas removidas da playlist</item>
         <item quantity="one">%d música removida da playlist</item>
     </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d músicas encontradas</item>
+        <item quantity="one">%d música encontrada</item>
+    </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d músicas similares</item>
         <item quantity="one">%d música similar</item>
     </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d músicas não foram salvas no backup (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d música não foi salva no backup (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Fazer backup de %1$d músicas (%2$.1fMB)</item>
+        <item quantity="one">Fazer backup de %1$d música (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="check_in_day_label">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="cloud_hint_upload_with_count">
+        <item quantity="other">Você tem %d músicas para fazer upload.</item>
+        <item quantity="one">Você tem %d música para fazer upload.</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_download_title">
+        <item quantity="other">Você tem %d músicas para baixar</item>
+        <item quantity="one">Você tem %d música para baixar</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_upload_title">
+        <item quantity="other">Você tem %d músicas para fazer upload</item>
+        <item quantity="one">Você tem %d música para fazer upload</item>
+    </plurals>
+    <plurals name="cloud_state_view_hint_download_pause">
+        <item quantity="one">Download pausado,%d músicas restantes.</item>
+        <item quantity="other">Download pausado,%d músicas restantes.</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comentários</item>
         <item quantity="one">%d comentário</item>
+    </plurals>
+    <plurals name="comment_input_length_invalid">
+        <item quantity="other">Você pode inserir até %1$d caracteres.</item>
+        <item quantity="one">Você pode inserir até %1$d caractere.</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Excluir %d itens?</item>
@@ -45,6 +137,10 @@
         <item quantity="other">Remover %d músicas?</item>
         <item quantity="one">Remover %d música?</item>
     </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Excluir %d músicas da Xiaomi Cloud? Elas também serão excluídas das playlists locais.</item>
+        <item quantity="one">Excluir %d música da Xiaomi Cloud? Ela também será excluída das playlists locais.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color==\"red\"&gt;%d músicas&lt;/font&gt; baixadas</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d música&lt;/font&gt; baixada</item>
@@ -57,9 +153,33 @@
         <item quantity="other">&lt;font color==\"red\"&gt;%d músicas&lt;/font&gt; baixando</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d música&lt;/font&gt; baixando</item>
     </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="local_song_empty_hint_button_sub_text">
+        <item quantity="other">Você tem %1$d músicas para baixar, %2$.1fM no total.</item>
+        <item quantity="one">Você tem %1$d música para baixar, %2$.1fM no total.</item>
+    </plurals>
+    <plurals name="local_song_number">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Baixando %1$d músicas</item>
+        <item quantity="one">Baixando %1$d música</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Não foi possível baixar %1$d músicas"</item>
+        <item quantity="one">"Não foi possível baixar %1$d música"</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d músicas</item>
+        <item quantity="one">%1$d música</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d seguidores</item>
@@ -70,8 +190,8 @@
         <item quantity="one">%d música será enviada</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Pulou %d músicas. Ative os serviços online nas Configurações para ouví-las.</item>
-        <item quantity="one">Pulou %d música. Ative os serviços online nas Configurações para ouví-la.</item>
+        <item quantity="other">Pulou %d músicas. Ative os serviços online nas Configurações para ouvi-las.</item>
+        <item quantity="one">Pulou %d música. Ative os serviços online nas Configurações para ouvi-la.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Músicas marcadas como favoritas.</item>
@@ -80,5 +200,13 @@
     <plurals name="songs_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Aqui estão %1$d atualizações para você:</item>
+        <item quantity="one">Aqui está %1$d atualização para você:</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Excluir %d playlists?</item>
+        <item quantity="one">Excluir %d playlist?</item>
     </plurals>
 </resources>

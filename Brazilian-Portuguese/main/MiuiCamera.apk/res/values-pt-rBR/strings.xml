@@ -35,6 +35,7 @@
     <string name="accessibility_filter_open_panel">Menu de filtros aberto</string>
     <string name="accessibility_filter_pad_close">Menu de filtros ocultado</string>
     <string name="accessibility_flash_auto">Flash automático ativado</string>
+    <string name="accessibility_flash_back_soft_light">O flash está funcionando em Modo de luz suave</string>
     <string name="accessibility_flash_off">Flash desativado</string>
     <string name="accessibility_flash_on">Flash ativado</string>
     <string name="accessibility_flash_torch">Flash ativado, modo lanterna</string>
@@ -51,6 +52,8 @@
     <string name="accessibility_intent_done_retry">Repetir</string>
     <string name="accessibility_lighting_panel_off">Barra de luz de estúdio oculta</string>
     <string name="accessibility_lighting_panel_on">Exibindo barra de iluminação de estúdio</string>
+    <string name="accessibility_mimovie_off">Modo filme desativado</string>
+    <string name="accessibility_mimovie_on">Modo filme ativado</string>
     <string name="accessibility_more">Mais</string>
     <string name="accessibility_open">Ativado</string>
     <string name="accessibility_peak">Botão de pico de foco</string>
@@ -127,6 +130,7 @@ e otimiza suas fotos com base nestas informações"</string>
     <string name="close_front_flash_toast">"Seu aparelho está superaquecido. Não é possível usar o flash agora."</string>
     <string name="color_effect_entry_berry">Berries</string>
     <string name="color_effect_entry_blackwhite">P&amp;B</string>
+    <string name="color_effect_entry_classic">Clássico</string>
     <string name="color_effect_entry_cookie">Cookie</string>
     <string name="color_effect_entry_delicacy">Gourmet</string>
     <string name="color_effect_entry_fade">Esmaecer</string>
@@ -150,6 +154,7 @@ e otimiza suas fotos com base nestas informações"</string>
     <string name="config_name_group">Selfie em grupo</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">Magia</string>
+    <string name="config_name_mimovie">Modo filme</string>
     <string name="config_name_scene">Cena</string>
     <string name="config_name_setting">Configurações</string>
     <string name="config_name_sound">Áudio</string>
@@ -179,6 +184,7 @@ e otimiza suas fotos com base nestas informações"</string>
     <string name="dialog_google_lens_option_0">Google Lens (Recomendado)</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">OK (%ds)</string>
+    <string name="dirty_tip_toast">A lente está suja. Limpe-a.</string>
     <string name="do_not_remind_me">"Não mostrar novamente"</string>
     <string name="dual_camera_lens_covered_toast">A lente está coberta.</string>
     <string name="dual_camera_lowlight_toast">"Parece que está muito escuro."</string>
@@ -252,6 +258,7 @@ e então criará uma foto com o mínimo de ruído possível."</string>
     <string name="hint_groupshot">"A câmera tirará várias fotos e criará uma
 única foto onde todos estão no seu melhor."</string>
     <string name="hint_groupshot_beauty">"Não é possível usar o modo Embelezar em fotos de grupo"</string>
+    <string name="hint_mimovie">Capture em modo paisagem para melhor efeito</string>
     <string name="hint_slow_motion">O vídeo que você gravou será reproduzido mais devagar.</string>
     <string name="hunt_dual_water_mark">A marca d\'água da câmera dupla será adicionada automaticamente.</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -309,6 +316,9 @@ de estúdio no Modo Retrato"</string>
     <string name="live_sticker_network_error_hint">Erro de rede</string>
     <string name="live_sticker_tab_name">TikTok Magic Sticker</string>
     <string name="live_sticker_updating">Atualizando…</string>
+    <string name="location_permission_des">Lembrar localização de fotos e videos</string>
+    <string name="location_permission_not_ask_again">Permita que a Câmera acesse sua localização nas Configurações.</string>
+    <string name="location_permission_not_ask_again_go_to_settings">Permitir</string>
     <string name="lying_direct_hint">Orientação atual</string>
     <string name="macro_mode">Macro</string>
     <string name="macro_mode_tip">"A distância entre a lente e objeto não deve exceder 10cm"</string>
@@ -316,6 +326,7 @@ de estúdio no Modo Retrato"</string>
 objetos pequenos fiquem maiores nas fotos"</string>
     <string name="macro_mode_use_hint_text_title">Macro</string>
     <string name="makeup_reset_toast">Efeitos de maquiagem limpos com sucesso</string>
+    <string name="manually_raw_hint">RAW</string>
     <string name="message_snap_double_confirm">Segurar os botões de volume ativa o NFC no momento. Substituir esta configuração?</string>
     <string name="mimoji_app_name">Fun Cam</string>
     <string name="mimoji_back">Voltar</string>
@@ -391,6 +402,10 @@ objetos pequenos fiquem maiores nas fotos"</string>
     <string name="module_name_square">Quadrado</string>
     <string name="module_name_video">Vídeo</string>
     <string name="multi_window_mode_not_supported">"A câmera não funciona com a Tela dividida"</string>
+    <string name="network_access_user_notice_agree">Aceitar</string>
+    <string name="network_access_user_notice_message_live_video"><Data>"A Câmera precisa se conectar à internet para fornecer efeitos, música e outros recursos para vídeos curtos.&lt;br/&gt;&lt;br/&gt;Ao tocar em "Aceitar" abaixo, você estará aceitando o nosso &lt;a href =%1$s&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href =%2$s&gt;Política de Privacidade&lt;/a&gt;, e permitindo que a Câmera conecte-se à internet."</Data></string>
+    <string name="network_access_user_notice_message_sticker"><Data>"A Câmera precisa se conectar à internet para fornecer stickers para este recurso.&lt;br/&gt;&lt;br/&gt;Ao tocar em "Aceitar" abaixo, você estará aceitando o nosso &lt;a href =%1$s&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href =%2$s&gt;Política de Privacidade&lt;/a&gt;, e permitindo que a Câmera conecte-se à internet."</Data></string>
+    <string name="network_access_user_notice_message_voice_caption"><Data>"A Câmera precisa se conectar à internet para fornecer a funcionalidade de saída de voz em texto.&lt;br/&gt;&lt;br/&gt;Ao tocar em "Aceitar" abaixo, você estará aceitando o nosso &lt;a href =%1$s&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href =%2$s&gt;Política de Privacidade&lt;/a&gt;, e permitindo que a Câmera conecte-se à internet."</Data></string>
     <string name="network_access_user_notice_title">Conectando-se à internet</string>
     <string name="no_storage">Insira o cartão SD antes de usar a câmera</string>
     <string name="not_enough_space">O cartão SD está cheio</string>
@@ -402,6 +417,7 @@ objetos pequenos fiquem maiores nas fotos"</string>
     <string name="pano_how_to_use_prompt_start">Toque na seta para mudar a direção e mova-se devagar.</string>
     <string name="pano_how_to_use_prompt_to_move">Comece a mover-se devagar</string>
     <string name="path_settings">Apps do sistema/Câmera/Configurações</string>
+    <string name="photo_assistance_tips_title">Dicas ao vivo</string>
     <string name="popup_tip_3d_beauty_intro_text">Embelezar 3D</string>
     <string name="portait_effect_entry_blackwhite">P&amp;B</string>
     <string name="portait_effect_entry_cool">Mint</string>
@@ -431,6 +447,7 @@ o fundo das suas fotos"</string>
 plano e destaca quem está à frente."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Experimente o Modo Retrato. Destaque a pessoa
 ou objeto enquanto desfoca o plano de fundo."</string>
+    <string name="pref_960_watermark_title">Marca d\'água de 960fps</string>
     <string name="pref_advance_settings">Configurações adicionais</string>
     <string name="pref_ai_detect">Detecção IA</string>
     <string name="pref_audio_focus_entry_front">Frontal</string>
@@ -450,7 +467,7 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
     <string name="pref_camera_audio_capture_title">Áudio</string>
     <string name="pref_camera_auto_capture_when_stable_summary">Para selecionar um objeto, toque simultaneamente em dois pontos diagonais em sua borda. Quando o objeto estiver estabilizado, a câmera tirará uma foto automaticamente.</string>
-    <string name="pref_camera_auto_capture_when_stable_title">Capturar objetos quando estável</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Capturar objetos selecionados quando estável</string>
     <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Média de quadros</string>
@@ -485,7 +502,7 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_delay_capture_entry_3s">Atraso de 3s</string>
     <string name="pref_camera_delay_capture_entry_5s">Atraso de 5s</string>
     <string name="pref_camera_delay_capture_entry_audio">Áudio</string>
-    <string name="pref_camera_delay_capture_title">Temporizador</string>
+    <string name="pref_camera_delay_capture_title">Timer</string>
     <string name="pref_camera_device_watermark_title">Marca d\'água do dispositivo</string>
     <string name="pref_camera_dual_enable_title">Ativar Câmera dupla</string>
     <string name="pref_camera_dual_sat_enable_title">Ativar Câmera dupla SAT</string>
@@ -663,7 +680,8 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
     <string name="pref_camera_zoom_mode_entry_standard">REGULAR</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">GRANDE ANGULAR</string>
     <string name="pref_camera_zoom_mode_entry_wide">ANGULAR</string>
     <string name="pref_camera_zoom_mode_title">LENTES</string>
@@ -682,12 +700,16 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_google_lens_summary">Aponte a câmera para informações de contatos, URLs e códigos QR para ver as opções disponíveis</string>
     <string name="pref_google_lens_title">Sugestões Lens</string>
     <string name="pref_groupshot_with_primitive_title">Salvar também a foto original</string>
+    <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente estiver suja</string>
+    <string name="pref_lens_dirty_detect_title">Notificar sobre lentes sujas</string>
     <string name="pref_manual_exposure_title">S</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Você só pode gravar vídeos 720p a 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Você só pode gravar vídeos 720p com 960fps</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_photo_assistance_tips_off">Desativado</string>
+    <string name="pref_photo_assistance_tips_on">Ativado</string>
     <string name="pref_priority_storage_title">Salvar no cartão SD</string>
     <string name="pref_privacy_title">Política de Privacidade</string>
     <string name="pref_qc_focus_position_title">F</string>
@@ -718,6 +740,7 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+    <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_title">Qualidade de vídeo</string>
     <string name="pref_video_speed_entry_fast">Rápido</string>
     <string name="pref_video_speed_entry_normal">Padrão</string>
@@ -742,7 +765,12 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_watermark_on">Ativada</string>
     <string name="pref_watermark_title">Marca d\'água</string>
     <string name="preparing_sd">Verificando o cartão SD…</string>
+    <string name="recommend_macro_mode">Experimente o Modo Macro</string>
+    <string name="recommend_portrait">Experimente o Modo Retrato</string>
+    <string name="recommend_soft_light_tip">Ativar flash</string>
+    <string name="recommend_super_night">Experimente o Modo Noturno</string>
     <string name="record_back_pressed_hint">Toque novamente para parar a gravação</string>
+    <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Redefinir</string>
     <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume + e Voltar.</string>
     <string name="screen_on_proximity_sensor_summary">"Não cubra a área do auricular"</string>
@@ -774,6 +802,9 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Fofo</string>
     <string name="sticker_tab2">Engraçado</string>
+    <string name="super_eis">Super estabilização</string>
+    <string name="super_eis_disabled_hint">Super estabilização desativada</string>
+    <string name="super_night_hint">Otimizando imagem... Mantenha seu dispositivo estável.</string>
     <string name="super_night_toast">Mantenha o telefone estável ao tirar uma foto</string>
     <string name="tap_to_exposure">Toque para ajustar a exposição manualmente</string>
     <string name="tap_to_focus">Toque para focar</string>
@@ -786,13 +817,18 @@ ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="toast_start_audio_capture">Faça um som para tirar uma foto</string>
     <string name="ubi_focus_capture_fail">"Não foi possível tirar foto"</string>
     <string name="ubifocus_capture_warning_message">Para melhores resultados, sua imagem deve conter objetos próximos (a menos de 1 metro da lente) e distantes</string>
+    <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_device">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD desativado</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ativado</string>
+    <string name="ultra_pixel_portrait_hint">Retrato HD</string>
     <string name="ultra_pixel_zoom_no_support_tip">"O zoom não funziona no modo %s Ultra HD"</string>
+    <string name="ultra_tele_use_hint_text_body">"Use o Zoom 50x para capturar objetos
+distantes com mais detalhes"</string>
+    <string name="ultra_tele_use_hint_text_title">Zoom 50x</string>
     <string name="ultra_wide_bokeh_close_tip">Modo corpo inteiro desativado</string>
     <string name="ultra_wide_bokeh_open_tip">Modo corpo inteiro</string>
     <string name="ultra_wide_close_tip">Modo Ultra grande-angular desativado</string>
@@ -804,7 +840,7 @@ O modo Ultra grande-angular ajuda-o quando não puder ficar muito afastado do ce
     <string name="ultra_wide_open_tip">Modo Ultra grande-angular</string>
     <string name="ultra_wide_open_tip_sat">Ultra grande-angular 0.6X</string>
     <string name="ultra_wide_recommend_tip_hint">Experimente o modo Ultra grande-angular</string>
-    <string name="ultra_wide_recommend_tip_hint_sat">Experimente o modo 0.6X Ultra grande-angular</string>
+    <string name="ultra_wide_recommend_tip_hint_sat">Mudar para Ultra grande-angular 0.6X</string>
     <string name="user_agree">Aceitar</string>
     <string name="user_define_watermark_cancel">Cancelar</string>
     <string name="user_define_watermark_save">Salvar</string>
@@ -821,7 +857,15 @@ O modo Ultra grande-angular ajuda-o quando não puder ficar muito afastado do ce
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="video_ultra_clear_tip_8k">8K UHD</string>
     <string name="view_privacy_policy">Ver a Política de Privacidade</string>
+    <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
+    <string name="vv_hint">Você só pode capturar vlogs em modo paisagem</string>
+    <string name="vv_stability_hint">Mantenha seu dispositivo estável</string>
+    <string name="vv_start">Capturar vlog</string>
+    <string name="vv_use_hint_text_body">"O Modo vlog permite que você
+grave e edite vídeos a qualquer hora"</string>
+    <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">Aguarde…</string>
     <string name="wideselfie_press_shoot_key_to_start">Toque no botão do disparador</string>
     <string name="wideselfie_result_image_lossless">"Não foi possível criar a foto panorâmica"</string>

@@ -130,7 +130,7 @@
     <string name="editing_set_transition_effect_tips">Escolher efeito de transição</string>
     <string name="editing_set_wallpaper_tips">Escolher plano de fundo</string>
     <string name="editing_tips">Editar Tela inicial</string>
-    <string name="emptyplaylist">Toque p/ adic. músicas</string>
+    <string name="emptyplaylist">Toque para adicionar músicas</string>
     <string name="enable_wallpaper_scroll">Ativar deslizamento lateral</string>
     <string name="encryption">Criptografia</string>
     <string name="failed_to_delete_temporary">"Não é possível remover"</string>
@@ -221,7 +221,7 @@
     <string name="lock_screen_failed_message">"Não é possível definir o plano de fundo da Tela de bloqueio"</string>
     <string name="lock_screen_success_message">Aplicado à Tela de bloqueio</string>
     <string name="lock_screen_wallpaper">Plano de fundo da Tela de bloqueio</string>
-    <string name="memory_clear_nothing_result">Nada a ser limpo na cache</string>
+    <string name="memory_clear_nothing_result">Nada a ser limpo no cache</string>
     <string name="memory_clear_result">%1$sB limpo(s)</string>
     <string name="menu_add">Adicionar</string>
     <string name="menu_auto_fill_of_uninstall">Preencher células de apps desinstalados</string>
@@ -233,7 +233,7 @@
     <string name="menu_exit_scene">Sair do Mi Space</string>
     <string name="menu_finish">Concluído</string>
     <string name="menu_item_add_item">Colocar na Tela inicial</string>
-    <string name="menu_launcher_setting">Configurações do launcher</string>
+    <string name="menu_launcher_setting">Configurações do Launcher</string>
     <string name="menu_lock">Bloquear layout da Tela inicial</string>
     <string name="menu_more">Mais</string>
     <string name="menu_picktheme">Escolha um tema</string>
@@ -282,7 +282,7 @@
     <string name="pref_enable_drawing_cache_title">Cache de desenho</string>
     <string name="pref_icon_shadow_summary">Mostrar sombras nos apps e reflexos na barra de Favoritos.</string>
     <string name="pref_icon_shadow_title">Sombras nos apps</string>
-    <string name="pref_keep_in_memory_summary">Manter o launcher em execução quando houver pouca memória.</string>
+    <string name="pref_keep_in_memory_summary">Manter o Launcher em execução quando houver pouca memória.</string>
     <string name="pref_keep_in_memory_title">Bloquear na memória</string>
     <string name="pref_keep_layout_summary">"Alterar o layout da sua Tela inicial não afetará a posição dos apps em relação uns aos outros."</string>
     <string name="pref_keep_layout_title">Bloquear posição de apps</string>
@@ -291,7 +291,7 @@
     <string name="pref_screen_transformation_type_title">Efeito de transição de tela</string>
     <string name="pref_wallpaper_scroll_type_title">Alinhamento do plano de fundo</string>
     <string name="preferences_general_title">Configurações adicionais</string>
-    <string name="preferences_title">Configurações do launcher</string>
+    <string name="preferences_title">Configurações do Launcher</string>
     <string name="preferred_app_settings_not_selected">Não selecionado</string>
     <string name="privacy_thumbnail_blur_summary">Desfocar prévias de apps nos Recentes</string>
     <string name="privacy_thumbnail_blur_title">Desfocar prévias de apps</string>
@@ -308,6 +308,7 @@
     <string name="recommend_loading">Carregando</string>
     <string name="recommend_refresh">Atualizar</string>
     <string name="recommend_xout">"Não mostrar"</string>
+    <string name="remove_invalidate_gadget_tips">Um dos widgets que você usa não está mais disponível. Você pode adicionar outro.</string>
     <string name="reset_description_first_time">Você pode restaurar o layout de %1$s em 2 horas</string>
     <string name="reset_description_others">Você pode restaurar o layout de %1$s</string>
     <string name="reset_fail">"Não foi possível restaurar"</string>
@@ -326,7 +327,9 @@
     <string name="shake_to_align_icons_summary">Agite seu dispositivo no modo de edição para preencher células vazias com ícones automaticamente</string>
     <string name="shake_to_align_icons_title">Agite para preencher células vazias</string>
     <string name="share">Compartilhar</string>
+    <string name="shortcut_share_dialog_content">"Os arquivos que você envia do seu telefone, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu telefone para transmitir nenhum vírus, malware, trojans, bombas de tempo, e outros objetos prejudiciais para outras pessoas. Não use seu telefone para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou eliminar quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades."</string>
     <string name="shortcut_share_dialog_positive_button">Entendido</string>
+    <string name="shortcut_share_dialog_title">Aviso legal</string>
     <string name="show_all">Mostrar tudo</string>
     <string name="show_mem_info_title">Mostrar status da memória</string>
     <string name="show_recents_recommend_title">Mostrar sugestões</string>
