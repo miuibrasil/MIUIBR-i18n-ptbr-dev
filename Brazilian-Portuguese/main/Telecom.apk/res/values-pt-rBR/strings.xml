@@ -426,7 +426,6 @@ Seleção"</string>
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS particular</string>
     <string name="private_dns_mode_provider_failure">"Não foi possível conectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
-    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
     <string name="respond_via_sms_canned_response_1">"Não posso falar agora. Manda um SMS, por favor?"</string>
     <string name="respond_via_sms_canned_response_2">"Já te ligo de volta."</string>

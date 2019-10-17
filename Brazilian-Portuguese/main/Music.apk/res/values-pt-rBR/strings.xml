@@ -1423,9 +1423,6 @@ Por favor, verifique sua data local e tente novamente."</string>
     <string name="sleep_mode_seek_bar_end">120 minutos</string>
     <string name="sleep_mode_seek_bar_start">1 minuto</string>
     <string name="text_separator">|</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="local_page_app_Recommend">Recomendações do app</string>
     <string name="mibi_progress_creating">Recuperando informações do pedido…</string>
     <string name="password_toggle_content_description">Alternar visibilidade da senha</string>

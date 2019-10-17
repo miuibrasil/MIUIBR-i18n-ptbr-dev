@@ -917,7 +917,6 @@ Use apenas o carregador fornecido."</string>
     <string name="keyguard_charged">Carregada</string>
     <string name="keyguard_charging_back_to_lockscreen">Voltar à Tela de bloqueio</string>
     <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
@@ -1383,7 +1382,6 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS particular</string>
     <string name="private_dns_mode_provider_failure">"Não foi possível conectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
-    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="profile_owned_footer">O perfil pode ser monitorado</string>
     <string name="prompt_danger">Perigo</string>
     <string name="prompt_detecting">Detectando</string>

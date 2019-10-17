@@ -242,7 +242,6 @@ Alterá-los agora?"</string>
     <string name="battery_saver">Economia de energia</string>
     <string name="battery_saver_keywords">economia de energia;energia do e-mail</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Configuração de faturas</string>
     <string name="bill_center_setting_head">Importar informações destas contas</string>
     <string name="bill_cycle_text">Ciclo de faturamento</string>
@@ -486,7 +485,6 @@ Alterá-los agora?"</string>
     <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
     <string name="forward_download_failed_ticker">"Não foi possível encaminhar todos os anexos."</string>
     <string name="forward_download_failed_title">Anexo não encaminhado</string>
-    <string name="forward_subject_label">Enc:</string>
     <string name="free_period_text">Período sem juros</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de excluir</string>
@@ -960,7 +958,6 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="refreshing_done">Concluído</string>
     <string name="release_to_refresh">Solte para atualizar</string>
     <string name="remind_attachment_size_limit">Os seus emails devem ser menores do que %sMB</string>
-    <string name="remote_no_mail">"Não existem mais e-mails no servidor."</string>
     <string name="remote_search_body_too_large_prompt">"Este e-mail é muito longo.
 Espere até que ele seja totalmente sincronizado ou veja a mensagem no seu computador."</string>
     <string name="remove_account">Remover conta</string>
@@ -970,7 +967,6 @@ Espere até que ele seja totalmente sincronizado ou veja a mensagem no seu compu
     <string name="reply_add_bodycontent">Adicionar a resposta ao corpo da mensagem?</string>
     <string name="reply_all">Responder a todos</string>
     <string name="reply_attribution">Em %1$s, %2$s escreveu:</string>
-    <string name="reply_subject_label">Res:</string>
     <string name="report_phishing">Reportar phishing</string>
     <string name="report_spam">Reportar spam</string>
     <string name="request_copy_db_to_disk">O E-mail está pedindo para copiar seu banco de dados em um arquivo</string>

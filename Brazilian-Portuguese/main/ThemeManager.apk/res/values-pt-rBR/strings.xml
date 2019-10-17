@@ -160,7 +160,6 @@
     <string name="exo_download_failed">Falha no download</string>
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Removendo downloads</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Automática</string>
     <string name="exo_track_selection_none">Nenhuma</string>

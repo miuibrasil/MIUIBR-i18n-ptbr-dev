@@ -724,7 +724,6 @@ Seleção"</string>
     <string name="default_preference_summary_domain_address">&lt;Não definido&gt;</string>
     <string name="default_preference_summary_password">&lt;Não definido&gt;</string>
     <string name="default_preference_summary_username">&lt;Não definido&gt;</string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Excluir</string>
     <string name="delete_fdn_contact">Excluir número de discagem fixa</string>
     <string name="deleting_fdn_contact">Excluindo número de discagem fixa…</string>
@@ -1351,7 +1350,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="overseas_roaming_setting">Roaming de dados</string>
     <string name="pane_title_emergency_dialpad">Teclado de emergência</string>
-    <string name="password">Senha</string>
     <string name="password_changed">Senha alterada</string>
     <string name="password_title">Senha</string>
     <string name="path_answer_state_setting_title">Apps do sistema/Telefone/Configuração de chamadas recebidas</string>
@@ -1436,7 +1434,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="pointer_location">Localização do cursor</string>
     <string name="pointer_location_summary">Exibir dados de toque</string>
     <string name="police_type_description">Polícia</string>
-    <string name="port">Porta</string>
     <string name="port_title">Número da porta</string>
     <string name="power_charging_duration">%1$s - %2$s até a carga completa</string>
     <string name="power_discharge_by">Deve durar até cerca de %1$s (%2$s)</string>
@@ -1530,7 +1527,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="private_dns_mode_provider_failure">"Não foi possível conectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
     <string name="private_num">Número privado</string>
-    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">"Não é possível fazer chamadas. Entre em contato com a China Telecom para ativar o serviço VoLTE."</string>
     <string name="prompt_to_turnoff_volte_when_failed">"Os serviços de VoLTE não estão disponíveis. Desative o VoLTE para fazer uma chamada."</string>

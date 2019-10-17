@@ -275,7 +275,6 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="aqi_detail_pm25">PM2.5</string>
     <string name="aqi_detail_so2">SO₂</string>
     <string name="aqi_sub_desc">AQI</string>
-    <string name="data_source_timezone">GMT%1$s</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="indices_desc_pressure">%1$smb</string>
 </resources>
